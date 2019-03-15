@@ -7,10 +7,13 @@ Welcome to Data Guidelines's documentation!
 ===========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+  :maxdepth: 2
+  :caption: Contents:
 
-
+  Genomics
+  Proteomics
+  Metabolomics
+  Imaging
 
 Indices and tables
 ==================
