@@ -1,6 +1,4 @@
-# Genomics
-
-## Whole-genome sequencing (human)
+## Metagenomics
 Person responsible for content in subsections: xxx
 
 ### Facilities in SciLifeLab providing services within this field:
@@ -16,17 +14,4 @@ Person responsible for content in subsections: xxx
 ### Data storage and backup?
 
 ### Data publishing and archiving in the field(repositories):
-
-
-## RNA sequencing
-
-## De novo genome sequencing
-
-## Single cell
-
-## Methylation
-
-## Metagenomics?
-
-
 
