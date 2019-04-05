@@ -1,4 +1,4 @@
-## Epegenetics
+## Epigenetics
 Person responsible for content in subsections: xxx
 
 ### Facilities in SciLifeLab providing services within this field:
