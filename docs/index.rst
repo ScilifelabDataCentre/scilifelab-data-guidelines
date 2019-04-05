@@ -14,7 +14,7 @@ General
 =======
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
 
   general/index
 
@@ -22,7 +22,7 @@ Genomics
 ========
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
 
   genomics/index
   
