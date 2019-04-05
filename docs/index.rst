@@ -10,44 +10,13 @@
 Welcome to SciLifeLab Data Guidelines's documentation!
 ===========================================
 
-General
-=======
-
 .. toctree::
   :maxdepth: 1
 
   general/index
-
-Genomics
-========
-
-.. toctree::
-  :maxdepth: 1
-
   genomics/index
-  
-Proteomics
-==========
-.. toctree::
-  :maxdepth: 1
-
   proteomics/index
-  
-
-Metabolomics
-============
-
-.. toctree::
-  :maxdepth: 1
-
   metabolomics/index
-  
-Imaging
-=======
-
-.. toctree::
-  :maxdepth: 1
-
   imaging/index
   
 
