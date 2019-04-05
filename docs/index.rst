@@ -1,27 +1,22 @@
-.. Data Guidelines documentation master file, created by
+.. SciLifeLab Data Guidelines documentation master file, created by
    sphinx-quickstart on Thu Mar 14 17:29:13 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 #################
-  Data Guidelines
+  SciLifeLab Data Guidelines
 #################
 
-Welcome to Data Guidelines's documentation!
+Welcome to SciLifeLab Data Guidelines's documentation!
 ===========================================
 
 Genomics
 ========
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
 
-  genomics/wgs
-  genomics/rnaseq
-  genomics/single_cell
-  genomics/epigenetics
-  genomics/de_novo
-  genomics/metagenomics
+  genomics/index
   
 Proteomics
 ==========
