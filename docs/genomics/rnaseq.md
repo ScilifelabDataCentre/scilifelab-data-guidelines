@@ -12,7 +12,21 @@ _Person responsible for content in subsections: xxx_
 * [NBIS](https://nbis.se)
 
 
+### Repositories
 
-### What to do...
+For RNAseq datatypes these repositories are relevant:
+
+* ENA for the Read data
+* ArrayExpress for the expression data
+
+
+#### Read data
+
+bla bla
+
+#### ArrayExpress
+
+bla bla
+
 
 
