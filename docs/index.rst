@@ -14,7 +14,7 @@ Genomics
 ========
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
 
   genomics/wgs
   genomics/rnaseq
