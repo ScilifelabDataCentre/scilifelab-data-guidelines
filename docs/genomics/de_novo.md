@@ -13,9 +13,9 @@ _Person responsible for content in subsections: xxx_
 
 ### Repositories
 
-#### SRA
+#### [ENA](https://www.ebi.ac.uk/ena)
 
-The Sequence Read Archive (SRA) is part of the European Nucleotide Archive ([ENA](https://www.ebi.ac.uk/ena)). SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
+The ENA hosts an instance of the Sequence Read Archive (SRA), the same archive that exists on NCBI. SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
 
 ##### Submission
 

@@ -13,14 +13,16 @@ _Person responsible for content in subsections: xxx_
 
 ### Repositories
 
-For RNA-seq datatypes these repositories are relevant:
+For RNA-seq data types these repositories are relevant:
 
-* SRA for raw read data
+* European Nucleotide Archive ([ENA](https://www.ebi.ac.uk/ena)) for raw read data
 * ArrayExpress for experiment descriptions and processed expression data
 
-#### SRA
+These repositories are both European ELIXIR Core Data Resources. Samples are linked between databases to make sure each part of the dataset is findable. Submitted data can be kept private until the associated research article is published. 
 
-The Sequence Read Archive (SRA) is part of the European Nucleotide Archive ([ENA](https://www.ebi.ac.uk/ena)). SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
+#### [ENA](https://www.ebi.ac.uk/ena)
+
+The ENA hosts an instance of the Sequence Read Archive (SRA), the same archive that exists on NCBI. SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
 
 ##### Submission
 
@@ -28,7 +30,7 @@ There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA
 
 #### [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/)
 
-ArrayExpress is another part of [ENA](https://www.ebi.ac.uk/ena), similar to NCBI's Gene Expression Omnibus database and can be used to archive experimental designs and analysis files based on the raw sequence reads. 
+ArrayExpress is tighty integrated with [ENA](https://www.ebi.ac.uk/ena) and similar to NCBI's Gene Expression Omnibus database it can be used to archive experimental designs and analysis files based on the raw sequence reads. 
 
 ##### Submission
 
