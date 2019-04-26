@@ -1,18 +1,22 @@
 ## De novo genome sequencing
-Person responsible for content in subsections: xxx
+_Person responsible for content in subsections: xxx_
 
 ### Facilities in SciLifeLab providing services within this field:
 
+#### Data generation
+
 * [NGI](https://ngisweden.scilifelab.se/)
 
-### Data formats and standards in the field:
+#### Data analysis
 
-### Experimental design suggestions
+* [NBIS](https://nbis.se)
 
-### Recommended analysis pipelines?
+### Repositories
 
-### Data storage and backup?
+#### SRA
 
-### Data publishing and archiving in the field(repositories):
+The Sequence Read Archive (SRA) is part of the European Nucleotide Archive ([ENA](https://www.ebi.ac.uk/ena)). SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
 
+##### Submission
 
+There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).

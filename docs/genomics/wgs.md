@@ -1,21 +1,14 @@
 ## Whole-genome sequencing (human)
-Person responsible for content in subsections: xxx
+_Person responsible for content in subsections: xxx_
 
 ### Facilities in SciLifeLab providing services within this field:
 
+#### Data generation
+
 * [NGI](https://ngisweden.scilifelab.se/)
 
-### Data formats and standards in the field:
+#### Data analysis
 
-### Experimental design suggestions
+* [NBIS](https://nbis.se)
 
-### Recommended analysis pipelines?
-
-### Data storage and backup?
-
-### Data publishing and archiving in the field(repositories):
-
-
-
-
-
+### Repositories
