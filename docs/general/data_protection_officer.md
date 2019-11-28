@@ -1,6 +1,5 @@
-==========================================
-Data Protection Officer (dataskyddssombud)
-==========================================
+## Data Protection Officer (dataskyddssombud)
+
 This is the person that is responsible for ensuring that the data processing of sensitive data adheres to the GDPR.
 You should report personal data processing to this person.
 
