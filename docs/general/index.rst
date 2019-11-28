@@ -8,4 +8,5 @@ The following sections contain general guidelines for several datatypes.
 
   storage
   sensitive_data
+  data_protection_officer
   
