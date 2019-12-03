@@ -1,5 +1,5 @@
-General
-========
+Introduction
+============
 
 The following section contain introduction to data life cycle.
 
