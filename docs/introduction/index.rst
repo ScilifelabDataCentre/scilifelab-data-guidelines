@@ -1,7 +1,7 @@
 General
 ========
 
-The following sections contain general guidelines for several datatypes.
+The following section contain introduction to data life cycle.
 
 .. toctree::
   :maxdepth: 1
