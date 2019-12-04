@@ -47,7 +47,7 @@ extensions = [
 ]
 
 source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
+    '.md': 'CommonMarkParser',
 }
 
 # Add any paths that contain templates here, relative to this directory.
