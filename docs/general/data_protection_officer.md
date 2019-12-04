@@ -13,4 +13,3 @@ You should report personal data processing to this person.
 | Stockholm University               | gdpr@su.se               | [GDPR at SU](https://www.su.se/english/staff/organisation-governance/legal-information)                                                
 | Umeå University                    | pulo@umu.se              | [Anmäl din personuppgiftsbehandling](https://www.aurora.umu.se/regler-och-riktlinjer/juridik/%20%20personuppgifter/anmal-din-personuppgiftsbehandling/)                        
 | Uppsala University                 | dataskyddsombud@uu.se    | [General Data Protection Regulation (GDPR) – how it works](https://mp.uu.se/en/web/info/stod/dataskyddsforordningen) 
-|
