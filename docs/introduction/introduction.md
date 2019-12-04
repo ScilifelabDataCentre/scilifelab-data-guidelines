@@ -1,5 +1,4 @@
 # Data life cycle
-
 ![Data_Life_Cycle](../images/data_life_cycle_circle_logos.png)
 
 ## Data design
