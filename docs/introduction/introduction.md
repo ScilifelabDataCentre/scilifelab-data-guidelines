@@ -1,9 +1,9 @@
 # Data life cycle
 
-![Data Life Cycle image](data_life_cycle_circle_logos.png)
+![Data_Life_Cycle](images/data_life_cycle_circle_logos.png)
 
 ## Data design
-*During this phase...* High quality science is often only possible if the resource facilities you intend to use gets involved already in the planning phase of a project. Consultation and advice regarding data management planning, data generation and data analysis, are offered by [NBIS](https://nbis.se/) and [SciLifeLab](https://www.scilifelab.se/). 
+During this phase you plan for wich data is needed to answer your research question. High quality science is often only possible if the resource facilities you intend to use gets involved already in the planning phase of a project. Consultation and advice regarding data management planning, data generation and data analysis, are offered by [NBIS](https://nbis.se/) and [SciLifeLab](https://www.scilifelab.se/). 
 
 Also, some resources have specific application periods and thus needs to be contacted well in advance.
 
@@ -38,4 +38,4 @@ Bioinformatic support is offered by [NBIS](https://nbis.se/support/ "NBIS suppor
 *University/Institutional repositories?*
 
 ## Data sharing
-In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and Open science (*länk?*), datasets should be made available to the public. There are domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), as well as general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
+In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. There are domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), as well as general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
