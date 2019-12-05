@@ -1,5 +1,5 @@
 # Data life cycle
- ![Data_Life_Cycle](/docs/images/data_life_cycle_circle_logos.png "Infrastructures in relation to data life cycle")
+ ![Data_Life_Cycle](https://github.com/ScilifelabDataCentre/scilifelab-data-guidelines/docs/images/data_life_cycle_circle_logos.png)
 
 ## Data design
 During this phase you plan for wich data is needed to answer your research question. High quality science is often only possible if the resource facilities you intend to use gets involved already in the planning phase of a project. Consultation and advice regarding data management planning, data generation and data analysis, are offered by [NBIS](https://nbis.se/) and [SciLifeLab](https://www.scilifelab.se/). 
