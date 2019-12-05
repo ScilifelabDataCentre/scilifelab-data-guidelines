@@ -1,10 +1,10 @@
 # Data life cycle
- ![Data life cycle](data_life_cycle_circle_logos.png)
+ ![Data life cycle](/images/data_life_cycle_circle_logos.png)
 
 ## Data design
 During this phase you plan for wich data is needed to answer your research question. High quality science is often only possible if the resource facilities you intend to use gets involved already in the planning phase of a project. Consultation and advice regarding data management planning, data generation and data analysis are offered by [NBIS](https://nbis.se/) and [SciLifeLab](https://www.scilifelab.se/). 
 
-Also, some resources have specific application periods and thus needs to be contacted well in advance. If your project includes sensitive human data, remember to apply for an ethics approval and report the data processing to your [Data protection officer](/data_protection_officer).
+Also, some resources have specific application periods and thus needs to be contacted well in advance. If your project includes sensitive human data, remember to apply for an ethics approval and report the data processing to your [Data protection officer](/general/data_protection_officer).
 
 ## Data generation
 SciLifeLab offers a wide range of data generation [services](https://www.scilifelab.se/infrastructure/) depending on which types of data is to be produced during the project.
