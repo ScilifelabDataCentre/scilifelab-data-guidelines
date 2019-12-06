@@ -15,16 +15,16 @@ Facilities which offer data generation services for [*enter datatype here*]:
 ## Data analysis
 Facilities which offer data analysis services for [*enter datatype here*]:
 ### Standard analyses (pipelines):
-* [name](https://linkname) 
+[name](https://linkname) 
 
 ### Project-specific analyses:
-* [NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) is a national research infrastructure that offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
+[NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) is a national research infrastructure that offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
 
 ### Computational resources:
 [SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) is a national research infrastructure that makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
 
 ## Data storage and archiving
-... *Intro about responsbilities regarding archiving and storage; what is the responsibilities, do we have links?*
+After the project is finished, the data needs to be stored in a backed-up fashion at least for 10 years, and for as long as the data is of scientific value. After this time, some of the data should be archived and some can be disposed. It is best to contact your university for information about the procedures for this. 
 
 [SNIC](https://www.snic.se/allocations/storage/ "SNIC storage") offers storage for small and medium-sized datasets. In the future also large-sized storage will be offered.
 
@@ -37,7 +37,7 @@ In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Fi
 
 ### Repositories for [*enter data type here*] data
 
-[*enter name, links and general info about repository here*]
+[*enter name, links and general info about repository & submission here*]
 
 #### Other repositories
-For other domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into these repositories, there are general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
+For other domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into domain-specifik repositories, there are general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
