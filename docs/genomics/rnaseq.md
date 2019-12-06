@@ -15,7 +15,7 @@ Facilities which offer data generation services for RNA sequencing:
 ## Data analysis
 Facilities which offer data analysis services for RNA-seq datasets:
 ### Standard analyses (pipelines):
-[name](https://linkname) 
+<!-- [name](https://linkname) -->
 
 ### Project-specific analyses:
 [NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) is a national research infrastructure that offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
