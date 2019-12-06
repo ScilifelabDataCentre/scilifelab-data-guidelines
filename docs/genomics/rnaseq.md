@@ -12,6 +12,8 @@ Also, some resources have specific application periods and thus needs to be cont
 Facilities which offer data generation services for RNA sequencing:
 * [NGI](https://ngisweden.scilifelab.se/)
 
+Consider to upload the raw data to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
+
 ## Data analysis
 Facilities which offer data analysis services for RNA-seq datasets:
 ### Standard analyses (pipelines):
