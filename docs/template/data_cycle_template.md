@@ -12,6 +12,8 @@ Also, some resources have specific application periods and thus needs to be cont
 Facilities which offer data generation services for [*enter datatype here*]:
 * [facility name](https://linkname) 
 
+Consider to upload the raw dataset to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
+
 ## Data analysis
 Facilities which offer data analysis services for [*enter datatype here*]:
 ### Standard analyses (pipelines):
