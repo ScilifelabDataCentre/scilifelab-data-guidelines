@@ -45,3 +45,6 @@ In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Fi
 
 #### Other repositories
 For other domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into domain-specifik repositories, there are general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
+
+## Feedback
+Any comments or questions? Please don't hesitate to send an email to [data-management@scilifelab.se](mailto:data-management@scilifelab.se)
