@@ -21,8 +21,8 @@ from recommonmark.parser import CommonMarkParser
 # -- Project information -----------------------------------------------------
 
 project = 'SciLifeLab Data Guidelines'
-copyright = '2019, Niclas Jareborg, Yvonne Kallberg, Hanna Kultima, Adrian Lärkeryd'
-author = 'Niclas Jareborg, Yvonne Kallberg, Hanna Kultima, Adrian Lärkeryd'
+copyright = '2019, Science for Life Laboratories'
+author = 'SciLifeLab Data Centre and NBIS'
 
 # The short X.Y version
 version = ''
@@ -43,6 +43,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinx.ext.githubpages',
+    'sphinx_markdown_tables',
 ]
 
 source_parsers = {
@@ -146,7 +147,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'DataGuidelines.tex', 'Data Guidelines Documentation',
-     'Niclas Jareborg, Yvonne Kallberg, Hanna Kultima, Adrian Lärkeryd', 'manual'),
+     'SciLifeLab', 'manual'),
 ]
 
 
