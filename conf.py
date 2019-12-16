@@ -147,7 +147,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'DataGuidelines.tex', 'Data Guidelines Documentation',
-     'Niclas Jareborg, Yvonne Kallberg, Hanna Kultima, Adrian Lärkeryd', 'manual'),
+     'SciLifeLab', 'manual'),
 ]
 
 
