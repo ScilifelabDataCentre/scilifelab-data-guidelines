@@ -17,6 +17,7 @@ Consider to upload the raw data to a repository already when receiving them, und
 ## Data analysis
 Facilities which offer data analysis services for RNA-seq datasets:
 ### Standard analyses (pipelines):
+* [NGI nf-core RNA-seq pipeline](https://github.com/nf-core/rnaseq/blob/master/docs/output.md)
 <!-- [name](https://linkname) -->
 
 ### Project-specific analyses:
@@ -40,9 +41,9 @@ In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Fi
 ### Repositories appropriate for RNA-seq datasets
 
 * European Nucleotide Archive ([ENA](https://www.ebi.ac.uk/ena)) for raw read data
-* ArrayExpress for experiment descriptions and processed expression data
+* [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) for experiment descriptions and processed expression data
 
-These repositories are both European ELIXIR Core Data Resources. Samples are linked between databases to make sure each part of the dataset is findable. Submitted data can be kept private until the associated research article is published. 
+Samples are linked between databases to make sure each part of the dataset is findable. Submitted data can be kept private until the associated research article is published (embargo). 
 
 ##### [ENA](https://www.ebi.ac.uk/ena)
 
