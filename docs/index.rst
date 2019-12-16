@@ -11,7 +11,7 @@ Welcome to SciLifeLab Data Guidelines's documentation!
 ======================================================
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
 
   general/index
   genomics/index
