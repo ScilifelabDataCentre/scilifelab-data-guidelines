@@ -33,9 +33,9 @@ After the project is finished, the data needs to be stored in a backed-up fashio
 
 [SNIC](https://www.snic.se/allocations/storage/ "SNIC storage") offers storage for small and medium-sized datasets. In the future also large-sized storage will be offered.
 
-*SND?*
+<!-- *SND?*
 *SUNET?*
-*University/Institutional repositories?*
+*University/Institutional repositories?* -->
 
 ## Data sharing
 In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
