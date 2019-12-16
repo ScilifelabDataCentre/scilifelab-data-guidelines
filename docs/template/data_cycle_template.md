@@ -18,10 +18,10 @@ Consider to upload the raw data to a repository already when receiving them, und
 
 ## Data analysis
 Facilities which offer data analysis services for <!-- [*enter datatype here*]  -->:
-### Standard analyses (pipelines):
+### Standard analysis (pipelines):
 <!-- [name](https://linkname) -->
 
-### Project-specific analyses:
+### Project-specific analysis:
 [NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) is a national research infrastructure that offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
 
 ### Computational resources:
