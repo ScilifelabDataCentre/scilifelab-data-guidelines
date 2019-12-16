@@ -51,7 +51,7 @@ Samples are linked between databases to make sure each part of the dataset is fi
 
 The ENA hosts an instance of the Sequence Read Archive (SRA), the same archive that exists on NCBI. SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
 
-###### Submission
+**Submission**
 
 There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
 
@@ -59,7 +59,7 @@ There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA
 
 ArrayExpress is tighty integrated with [ENA](https://www.ebi.ac.uk/ena) and similar to NCBI's Gene Expression Omnibus database it can be used to archive experimental designs and analysis files based on the raw sequence reads. 
 
-###### Submission
+**Submission**
 
 ArrayExpress has its own [submission portal](https://www.ebi.ac.uk/arrayexpress/submit/overview.html) where information is available on what can be submitted and how.
 
