@@ -12,7 +12,7 @@ A checklist with more background information on theses topics has been developed
 * Is the intended research purpose within the scope of the limitations of use that is defined in the ethics approval(s) and/or the informed consent(s)?
 
 
-### GDPR ([more info](#id1))
+### GDPR ([more info](#gdpr))
 
 * What is the **purpose** of processing of the personal data?
 * Who is the **Controller(s)** of the personal data?
@@ -23,7 +23,7 @@ A checklist with more background information on theses topics has been developed
 * What happens with the data after project completion?
 * What technical and procedural safeguards will be established for processing the data?
 
-### Other considerations ([more info](#id2))
+### Other considerations ([more info](#other-considerations))
 
 * Are there other relevant national legislation considerations that has to be taken into account?
   - e.g. regarding public access to information, biobank acts, etc.
