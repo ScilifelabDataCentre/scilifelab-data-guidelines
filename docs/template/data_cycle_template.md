@@ -8,7 +8,7 @@ During this phase you plan for wich data is needed to answer your research quest
 
 It is wise to write a data management plan, using either a tool provided by your university or [DS wizard](http://dsw.scilifelab.se/).
 
-Also, some resources have specific application periods and thus needs to be contacted well in advance. If your project includes sensitive human data, note that there are ethical and legal issues that you have to consider, such as apply for an ethics approval and report the data processing to your [Data protection officer](/docs/general/data_protection_officer). See [Sensitive human data](/docs/general/sensitive_data) for more information.
+Also, some resources have specific application periods and thus needs to be contacted well in advance. If your project includes sensitive human data, note that there are ethical and legal issues that you have to consider, such as apply for an ethics approval and report the data processing to your [Data protection officer](/docs/general/data_protection_officer). See the page on [Sensitive personal data](/docs/general/sensitive_data) for more information.
 
 ## Data generation
 Facilities which offer data generation services for <!-- [*enter datatype here*]: -->
