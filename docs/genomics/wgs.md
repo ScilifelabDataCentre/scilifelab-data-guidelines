@@ -36,16 +36,7 @@ After the project is finished, the data needs to be stored in a backed-up fashio
 In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
 
 ### Repositories for whole-genome sequencing data
-#### [ENA](https://www.ebi.ac.uk/ena)
-
-The ENA hosts an instance of the Sequence Read Archive (SRA), the same archive that exists on NCBI. SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
-
-##### Submission
-
-There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
-
-#### Other repositories
-For other domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into domain-specifik repositories, there are general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
+NBIS is building a local federated version of the European Genome-phenome Archive (EGA) in Sweden (EGA-SE), allowing for the publication of sensitive personal data within a legal framework. Until local EGA is available, the dataset should remain in the secure analysis environment (eg at Bianca on Uppmax). NBIS can issue a [DOI](http://doi.nbis.se/) (ie a persistent identifier) to use in submission of a manuscript. The DOI can later be re-pointed once the dataset is uploaded to local EGA. 
 
 ## Feedback
 Any comments or questions? Please don't hesitate to send an email to [data-management@scilifelab.se](mailto:data-management@scilifelab.se)
