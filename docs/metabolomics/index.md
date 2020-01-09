@@ -35,6 +35,7 @@ In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Fi
 ### Repositories for metabolomics data
 
 <!-- [*enter name, links and general info about repository & submission here*]  -->
+[MetaboLights](https://www.ebi.ac.uk/metabolights/) is a database for Metabolomics experiments and derived information. The database is cross-species, cross-technique and covers metabolite structures and their reference spectra as well as their biological roles, locations and concentrations, and experimental data from metabolic experiments.
 
 #### Other repositories
 For other domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into domain-specifik repositories, there are general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
