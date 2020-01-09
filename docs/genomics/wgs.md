@@ -1,4 +1,4 @@
-## Whole-genome sequencing (human)
+# Whole-genome sequencing (human)
 
 The data life cycle is typically divided into design, generation, analysis, storage & archiving, and sharing. Below you will find information about infrastructure resources available during these phases.
 
