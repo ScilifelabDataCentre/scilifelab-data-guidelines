@@ -17,6 +17,8 @@ Facilities which offer data generation services for single-cell genomics:
 
 * [Eukaryotic Single-Cell Genomics (ESCG)](http://escg.se/) offers streamlined single cell RNA sequencing, as well as whole genome DNA amplification
 
+* [Microbial Single Cell Genomics](https://www.scilifelab.se/facilities/single-cell/)
+
 Consider to upload the raw data to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
 
 ## Data analysis
