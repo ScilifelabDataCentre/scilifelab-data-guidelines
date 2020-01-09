@@ -14,13 +14,15 @@ Also, some resources have specific application periods and thus needs to be cont
 ## Data generation
 Facilities which offer data generation services for imaging:
 <!-- * [facility name](https://linkname) -->
+* [ALM](https://www.scilifelab.se/facilities/alm/) Advanced Light Microscopy facility give support with advanced fluorescence microscopy for nanoscale biological visualization using SIM, STED, STORM/PALM superresolution imaging. Submit your application at the NMI (National Microscopy Infrastructure) [project portal](https://nmi.scilifelab.se/).
+* [Cryo-EM](https://cryoem.scilifelab.se/) offers access to state-of-the-art equipment and expertise in single particle cryo-EM and cryo-tomography (cryo-ET).
 
 Consider to upload the raw data to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
 
 ## Data analysis
 Facilities which offer data analysis services for imaging:
 
-* [BioImage analysis facility](https://www.scilifelab.se/facilities/bioimage-informatics/)
+* [BioImage analysis facility](https://www.scilifelab.se/facilities/bioimage-informatics/) provides support and education in image analysis in order to help users get started with their own analysis.
 
 ### Computational resources:
 [SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) is a national research infrastructure that makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
