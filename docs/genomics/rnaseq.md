@@ -12,7 +12,8 @@ Also, some resources have specific application periods and thus needs to be cont
 
 ## Data generation
 Facilities which offer data generation services for RNA sequencing:
-* [NGI](https://ngisweden.scilifelab.se/)
+
+* [NGI](https://ngisweden.scilifelab.se/) (National Genomics Infrastructure) offers an infrastructure equipped with a comprehensive range of technology platforms for next generation sequencing (NGS) and genotyping.
 
 Consider to upload the raw data to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
 
