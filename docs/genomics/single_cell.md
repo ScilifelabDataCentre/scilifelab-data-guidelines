@@ -1,4 +1,4 @@
-# RNA sequencing
+# Single-cell genomics
 The data life cycle is typically divided into design, generation, analysis, storage & archiving, and sharing. Below you will find information about infrastructure resources available during these phases.
 
  ![](/docs/images/data_life_cycle_circle_logos.png)
@@ -11,20 +11,20 @@ It is wise to write a data management plan, using either a tool provided by your
 Also, some resources have specific application periods and thus needs to be contacted well in advance. If your project includes sensitive human data, note that there are ethical and legal issues that you have to consider, such as apply for an ethics approval and report the data processing to your [Data protection officer](/docs/general/data_protection_officer). See the page on [Sensitive personal data](/docs/general/sensitive_data) for more information.
 
 ## Data generation
-Facilities which offer data generation services for RNA sequencing:
+Facilities which offer data generation services for single-cell genomics:
 
 * [NGI](https://ngisweden.scilifelab.se/) (National Genomics Infrastructure) offers an infrastructure equipped with a comprehensive range of technology platforms for next generation sequencing (NGS) and genotyping.
+
+* [Eukaryotic Single-Cell Genomics (ESCG)](http://escg.se/) offers streamlined single cell RNA sequencing, as well as whole genome DNA amplification
+
+* [Microbial Single Cell Genomics](https://www.scilifelab.se/facilities/single-cell/)
 
 Consider to upload the raw data to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
 
 ## Data analysis
-Facilities which offer data analysis services for RNA-seq datasets:
-### Standard analyses (pipelines):
-* [NGI nf-core RNA-seq pipeline](https://github.com/nf-core/rnaseq/blob/master/docs/output.md)
-<!-- [name](https://linkname) -->
+Facilities which offer data analysis services for single-cell datasets:
 
-### Project-specific analyses:
-[NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) is a national research infrastructure that offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
+* [NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) is a national research infrastructure that offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
 
 ### Computational resources:
 [SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) is a national research infrastructure that makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
@@ -34,14 +34,10 @@ After the project is finished, the data needs to be stored in a backed-up fashio
 
 [SNIC](https://www.snic.se/allocations/storage/ "SNIC storage") offers storage for small and medium-sized datasets. In the future also large-sized storage will be offered.
 
-<!-- *SND?*
-*SUNET?*
-*University/Institutional repositories?* -->
-
 ## Data sharing
 In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
 
-### Repositories appropriate for RNA-seq datasets
+### Repositories appropriate for single-cell (non human) datasets
 
 * European Nucleotide Archive ([ENA](https://www.ebi.ac.uk/ena)) for raw read data
 * [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) for experiment descriptions and processed expression data
