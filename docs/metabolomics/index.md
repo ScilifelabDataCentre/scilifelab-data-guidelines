@@ -15,6 +15,8 @@ Facilities which offer data generation services for metabolomics:
 
 * [Swedish Metabolomics Centre (SMC)](http://www.swedishmetabolomicscentre.se/) specializes in analyzing metabolites and lipids with mass spectrometry based methods.
 
+* [Swedish NMR Centre](https://www.scilifelab.se/facilities/swedish-nmr-centre/) provides access to state-of-the-art NMR instrumentation and methodology.
+
 Consider to upload the raw data to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
 
 ## Data analysis
