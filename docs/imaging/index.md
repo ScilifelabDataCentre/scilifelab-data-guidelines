@@ -39,6 +39,7 @@ In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Fi
 ### Repositories for imaging data
 
 <!-- [*enter name, links and general info about repository & submission here*]  -->
+Depending on the type of image data you have, different public repositories are available, please see the table at [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/).
 
 #### Other repositories
 For other domain-specific repositories, see e.g. [ELIXIR Core resources](https://elixir-europe.org/platforms/data/core-data-resources), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into domain-specifik repositories, there are general repositories such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
