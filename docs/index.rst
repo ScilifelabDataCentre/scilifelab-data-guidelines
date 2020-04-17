@@ -10,11 +10,13 @@
 Welcome to SciLifeLab Data Guidelines's documentation!
 ======================================================
 
-Click on any of the datatypes for guidance on good data
+Click on any of the data types for guidance on good data
 management practices during the different stages of the
 research data life cycle including available infrastructures
- and appropriate repositories.
+and appropriate repositories.
 
+Data type:
+==========
 .. toctree::
   :maxdepth: 1
 
