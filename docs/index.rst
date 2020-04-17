@@ -3,26 +3,38 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-############################
-  SciLifeLab Data Guidelines
-############################
+########################################
+  Welcome to SciLifeLab Data Guidelines!
+########################################
 
-Welcome to SciLifeLab Data Guidelines's documentation!
-======================================================
+Click on any of the data types for guidance on good data
+management practices during the different stages of the
+research data life cycle, including available infrastructures
+and appropriate repositories. There is also overarching
+guidance on sensitive data under General information.
 
+Data type:
+==========
 .. toctree::
   :maxdepth: 1
 
-  general/index
   genomics/index
-  proteomics/index
-  metabolomics/index
   imaging/index
-  
+  metabolomics/index
+  proteomics/index
 
-Indices and tables
-==================
+General information:
+====================
+.. toctree::
+  :maxdepth: 1
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+  general/sensitive_data
+
+
+..
+  Indices and tables
+  ==================
+
+  * :ref:`genindex`
+  * :ref:`modindex`
+  * :ref:`search`

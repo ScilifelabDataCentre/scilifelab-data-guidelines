@@ -1,7 +1,7 @@
 Genomics
 ========
 
-The following sections contain guidelines for different genomics datatypes.
+The following sections contain guidelines for different genomics data types.
 
 .. toctree::
   :maxdepth: 1
