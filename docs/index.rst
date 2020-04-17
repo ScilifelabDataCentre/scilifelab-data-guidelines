@@ -21,9 +21,9 @@ Data type:
   :maxdepth: 1
 
   genomics/index
-  proteomics/index
-  metabolomics/index
   imaging/index
+  metabolomics/index
+  proteomics/index
   
 ..
   Indices and tables
