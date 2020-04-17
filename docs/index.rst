@@ -10,7 +10,8 @@
 Click on any of the data types for guidance on good data
 management practices during the different stages of the
 research data life cycle including available infrastructures
-and appropriate repositories.
+and appropriate repositories. There is also overarching
+guidance on sensitive data under General information.
 
 Data type:
 ==========
@@ -22,7 +23,13 @@ Data type:
   metabolomics/index
   proteomics/index
 
- 
+General information:
+====================
+ .. toctree::
+  :maxdepth: 1
+
+  general/sensitive_data
+  
 ..
   Indices and tables
   ==================
