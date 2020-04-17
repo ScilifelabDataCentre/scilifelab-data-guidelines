@@ -3,12 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-############################
-  SciLifeLab Data Guidelines
-############################
-
-Welcome to SciLifeLab Data Guidelines's documentation!
-======================================================
+########################################################
+  Welcome to SciLifeLab Data Guidelines's documentation!
+########################################################
 
 Click on any of the data types for guidance on good data
 management practices during the different stages of the
@@ -24,7 +21,8 @@ Data type:
   imaging/index
   metabolomics/index
   proteomics/index
-  
+
+ 
 ..
   Indices and tables
   ==================
