@@ -25,11 +25,11 @@ Data type:
 
 General information:
 ====================
- .. toctree::
+.. toctree::
   :maxdepth: 1
 
   general/sensitive_data
-  
+
 ..
   Indices and tables
   ==================
