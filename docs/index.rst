@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-########################################################
-  Welcome to SciLifeLab Data Guidelines's documentation!
-########################################################
+########################################
+  Welcome to SciLifeLab Data Guidelines!
+########################################
 
 Click on any of the data types for guidance on good data
 management practices during the different stages of the
