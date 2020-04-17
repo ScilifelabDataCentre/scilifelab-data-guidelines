@@ -10,19 +10,23 @@
 Welcome to SciLifeLab Data Guidelines's documentation!
 ======================================================
 
+Click on any of the datatypes for guidance on good data
+management practices during the different stages of the
+research data life cycle including available infrastructures
+ and appropriate repositories.
+
 .. toctree::
   :maxdepth: 1
 
-  general/index
   genomics/index
   proteomics/index
   metabolomics/index
   imaging/index
   
+..
+  Indices and tables
+  ==================
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+  * :ref:`genindex`
+  * :ref:`modindex`
+  * :ref:`search`
