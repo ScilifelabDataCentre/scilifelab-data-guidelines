@@ -3,6 +3,7 @@
 The following is a list of Ethical, Legal and Social implications (ELSI) are topics that has to been considered when working with human data.
 The content on this page is based on a checklist on theses topics that has been developed in the [Tryggve project](https://neic.no/tryggve/). The checklist can be used as a tool to document these considerations and is available here. 
 
+Before the collection of personal data is begun you should always consult with the [Data Protection Officer](data_protection_officer) of your organisation. 
 
 ### Ethical reviews and informed consent ([more info](#ethical-reviews-and-informed-consents))
 
