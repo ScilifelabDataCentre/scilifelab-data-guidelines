@@ -1,10 +1,10 @@
-# Metadata standards and ontologies
-Good documentation in research projects, describing how the datasets were created, how they are structured, and what they mean,  is essential for making your data understandable. To achieve this, metadata standards (what type of information to provide to describe a dataset properly) and ontologies or controlled vocabularies (data dictionary) is required. 
+# Data documentation - metadata 
+Good documentation in research projects, describing how the datasets were created, how they are structured, and what they mean, is essential for making your data understandable. Metadata provides such 'data about data' , and may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, any assumptions made, the format and file type of the data and software used to collect and/or process the data.
 
 ## Metadata standards
-Researchers are strongly encouraged to use community metadata standards, and often the repositories have checklists e.g. [ENA sample checklists](https://www.ebi.ac.uk/ena/submit/checklists).
+Researchers are strongly encouraged to use community metadata standards where these are in place, consult e.g. [FAIRsharing.org](https://fairsharing.org/standards/?q=&selected_facets=status:Ready&selected_facets=expanded_onto_disciplines_exact:Life%20Science). Data repositories may also provide guidance about appropriate metadata standards and requirements e.g. [ENA sample checklists](https://www.ebi.ac.uk/ena/submit/checklists). It is highly recommended to, already from the beginning of the project, structure e.g. sample metadata in a way that enables sequence data submission  without having to reformat the metadata.
 
-Below are examples of standards for Life Science community, adapted from Table 4 in *Griffin PC, Khadake J, LeMay KS et al. Best practice data life cycle approaches for the life sciences. F1000Research 2018, 6:1618.* [doi: 10.12688/f1000research.12344.2](10.12688/f1000research.12344.2):
+Below are examples of standards for Life Science community, adapted from Table 4 in *Griffin PC, Khadake J, LeMay KS et al. Best practice data life cycle approaches for the life sciences. F1000Research 2018, 6:1618.* doi: [10.12688/f1000research.12344.2](10.12688/f1000research.12344.2)
 
 * [MINSEQE](http://fged.org/site_media/pdf/MINSEQE_1.0.pdf)  
 Minimum Information about a high- throughput SEQuencing Experiment. Developed by the Functional Genomics
@@ -47,13 +47,11 @@ Metadata specification for biological samples derived from animals (animals, tis
 * [FAANG experimental metadata specification](https://github.com/FAANG/faang-metadata/blob/master/docs/faang_experiment_metadata.md)  
 Metadata specification for sequencing and array experiments on animal samples. Developed and used by the Functional Annotation of Animal Genomes Consortium.
 
-For other standards appropriate for Life Science community please see [FAIRsharing.org](https://fairsharing.org/standards/?q=&selected_facets=status:Ready&selected_facets=expanded_onto_disciplines_exact:Life%20Science), filter on e.g Domain.
-
 ## Ontologies
 
 For a suggested list of ontologies appropriate for Life Science community please see [FAIRsharing.org](https://fairsharing.org/standards/?q=&selected_facets=status:Ready&selected_facets=expanded_onto_disciplines_exact:%20Life%20Science&selected_facets=type_exact:terminology%20artifact), filter on e.g. Domain.
 
-Below are ontology resources, adapted from Table 2 in *Griffin PC, Khadake J, LeMay KS et al. Best practice data life cycle approaches for the life sciences. F1000Research 2018, 6:1618.* [doi: 10.12688/f1000research.12344.2](10.12688/f1000research.12344.2):
+Below are ontology resources, adapted from Table 2 in *Griffin PC, Khadake J, LeMay KS et al. Best practice data life cycle approaches for the life sciences. F1000Research 2018, 6:1618.* doi: [10.12688/f1000research.12344.2](10.12688/f1000research.12344.2)
 
 * [Ontology Lookup Service](http://www.ebi.ac.uk/ols/) - 
 Discover different ontologies and their contents.
@@ -71,16 +69,4 @@ sharing, visualization, and use.
 
 ## Data dictionary
 
-When no community standards exists it is sometime necessary to create a data dictionary. See [OSF - how to make a data dictionary](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary), on how to document metadata variables.
-
-<!-- från DSW: Metadata provides 'data about data' and allows others to understand, cite and reuse your data files. 
-Sample metadata documentation
-What's up?
-What metadata will be provided to help others discover, identify and interpret the data? Researchers are strongly encouraged to use community metadata standards where these are in place (consult e.g FAIRsharing.org). Data repositories may also provide guidance about appropriate metadata standards, e.g. ENA have defined a number of metadata standards checklists.
-
-Do
-Consider what other documentation is needed to enable reuse. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, any assumptions made, the format and file type of the data and software used to collect and/or process the data.
-Consider how you will capture this information and where it will be recorded, e.g. in a database with links to each item, in a Readme text file, in file headers, etc. It is highly recommended to structure e.g. sample metadata in a way that enables sequence data submission to ENA without having to reformat the metadata.
-Links
-ENA metadata standards checklists https://www.ebi.ac.uk/ena/submit/checklists-->
-<!-- från nbis dm hemsida: Metadata should be provided to help others discover, identify and interpret the data. Researchers are strongly encouraged to use community metadata standards and ontologies where these are in place, consult e.g [FAIRsharing.org](https://fairsharing.org/standards/). Data repositories may also provide guidance about metadata standards and requirements. Capture any additional documentation needed to enable reuse of the data in Readme text files and [Data Dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) that describe what all the variable names and values in your data really mean. -->
+Capture any additional documentation needed to enable reuse of the data in Readme text files and [Data Dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) that describe what all the variable names and values in your data really mean.
