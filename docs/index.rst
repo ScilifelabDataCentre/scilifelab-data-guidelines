@@ -11,7 +11,7 @@ Click on any of the data types for guidance on good data
 management practices during the different stages of the
 research data life cycle, including available infrastructures
 and appropriate repositories. There is also overarching
-guidance on sensitive data under General information.
+guidance on metadata and sensitive data under General information.
 
 Data type:
 ==========
