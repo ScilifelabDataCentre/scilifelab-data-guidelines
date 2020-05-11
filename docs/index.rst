@@ -18,10 +18,12 @@ Data type:
 .. toctree::
   :maxdepth: 1
 
+  covid-19/index
   genomics/index
   imaging/index
   metabolomics/index
   proteomics/index
+  
 
 General information:
 ====================
