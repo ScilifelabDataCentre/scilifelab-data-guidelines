@@ -7,6 +7,5 @@ The following section(s) contain guidelines for different covid-19 data types.
   :maxdepth: 1
 
   omics
+  de_novo
 
-
-  
