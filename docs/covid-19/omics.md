@@ -1,4 +1,4 @@
-<!-- # [*enter data type here*] -->
+# COVID-19 OMICs data
 The data life cycle is typically divided into design, generation, analysis, storage & archiving, and sharing. Below you will find information about infrastructure resources available during these phases.
 
  ![](/docs/images/data_life_cycle_circle_logos.png)
