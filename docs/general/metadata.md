@@ -7,11 +7,11 @@ Researchers are strongly encouraged to use community metadata standards where th
 Below are examples of standards for Life Science community, adapted from Table 4 in *Griffin PC, Khadake J, LeMay KS et al. Best practice data life cycle approaches for the life sciences. F1000Research 2018, 6:1618.* doi: [10.12688/f1000research.12344.2](10.12688/f1000research.12344.2)
 
 * [MINSEQE](http://fged.org/site_media/pdf/MINSEQE_1.0.pdf)  
-Minimum Information about a high- throughput SEQuencing Experiment. Developed by the Functional Genomics
+  Minimum Information about a high- throughput SEQuencing Experiment. Developed by the Functional Genomics
 Data Society. Used in the NCBI Sequence Read Archive, ArrayExpress.	
 
 * [MIxS - MIGS/MIMS](http://wiki.gensc.org/index.php?title=MIGS/MIMS)  
-Minimum Information about a (Meta)Genome Sequence. The
+  Minimum Information about a (Meta)Genome Sequence. The
 MIMS extension includes key environmental metadata. Developed by the Genomic Standards Consortium. Numerous adopters including NCBI/EBI/DDBJ databases.
 
 * [MIMARKS](http://wiki.gensc.org/index.php?title=MIMARKS)  
