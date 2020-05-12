@@ -1,6 +1,30 @@
 COVID-19
 ========
-  
+## General information
+Please see the [Swedish COVID-19 Data Portal](https://www.covid19dataportal.se/) 
+for the latest information regarding Swedish efforts in COVID-19 research. 
+Also see the [European COVID-19 Data Portal](https://www.covid19dataportal.org/)
+for useful information.
+
+### Data management plan:
+It is wise to write a data management plan, using either a tool provided by your 
+university or [DS wizard](http://dsw.scilifelab.se/).
+
+### Project-specific analysis:
+[NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics 
+Infrastructure Sweden) is a national research infrastructure that offers 
+bioinformatic support in various forms for a wide range of areas including 
+NGS, proteomics, metabolomics and biostatistics.
+
+### Computational resources:
+[SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure 
+for Computing) is a national research infrastructure that makes available 
+large scale high performance computing resources. 
+[Apply](https://www.snic.se/allocations/compute/ "SNIC compute") 
+for Small, Medium, Large or Sensitive data allocation, depending on 
+size and type of project.
+
+## Guidelines
 The guidelines in all sections regarding COVID-19 has been adapted from the 
 [Research Data Alliance](https://rd-alliance.org/) 3rd release of the 
 [COVID-19 Data Sharing Recommendations & Guidelines]
@@ -24,7 +48,7 @@ types and resources:
   proteomics-and-metabolomics
   lipidomics
 
-Please see the [Swedish COVID-19 Data Portal](https://www.covid19dataportal.se/) contains 
-for the latest information regarding Swedish efforts in COVID-19 research.
+
+
 
 
