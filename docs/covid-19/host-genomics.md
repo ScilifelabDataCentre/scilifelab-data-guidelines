@@ -5,50 +5,41 @@ Host genomics data is often coupled to human subjects. This comes with many ethi
 * Data sharing of not only summary statistics (or significant data) but also raw data (individual-level data) will foster a build-up of larger datasets. This will eventually allow identifying the determinants of phenotype more accurately.
 * Especially for raw sequencing data make sure to include QC results and details of the sequencing platform used.
 * Common terminologies for reporting statistical tests (e.g with [StatO](https://doi.org/10.25504/FAIRsharing.na5xp)) enable reuse and reproducibility.
+* Researchers interested in HLA genomics are referred to the [HLA COVID-19 consortium](http://hlacovid19.org/)
 
 ## Repositories
 Several different types of host genomics data are being collected for COVID-19 research. Some suitable repositories for these are:
-* Gene expression: A curated list can be found in FAIRsharing (FAIRsharing 2020d) some specific examples are listed below. To achieve load balancing, it is in general recommended to choose the respective regional repository for data deposition. Note that INSDC resources synchronize most for their data sets daily (ex: EGA/JGA/dbGaP, ArrayExpress/GEA/GEO).
-  *  Transcriptomics of human subjects (i.e., requiring authorized access):
-■ European Genome-Phenome Archive (EGA) (FAIRsharing 2015d) (if the
-data must be stored locally, EGA is working on a software package that
-can be installed locally and connects to the central metadata archive for
-findability)
 
-  * Transcriptomics (cell lines/animals):
-■ ENA (FAIRsharing 2015e), for submission documentation see (ENA-Docs 2020)
+* **Gene expression**: A curated list can be found in FAIRsharing (FAIRsharing 2020d) some specific examples are listed below. To achieve load balancing, it is in general recommended to choose the respective regional repository for data deposition. Note that INSDC resources synchronize most for their data sets daily (ex: EGA/JGA/dbGaP, ArrayExpress/GEA/GEO).
 
-  * Gene expression arrays:
-■ EBI ArrayExpress (FAIRsharing Team 2015a)
+  *  **Transcriptomics of human subjects** (i.e. requiring authorized access): NBIS is building a local federated version of the European Genome-phenome Archive (EGA) in Sweden (EGA-SE), allowing for the publication of sensitive personal data within a legal framework. Until local EGA is available, the dataset should remain in the secure analysis environment (eg at Bianca on Uppmax). We suggest to make a metadata-only record in the [SciLifeLab Data Repository](https://scilifelab.figshare.com/) with contact details on how to get access, and for which a DOI (ie a persistent identifier) can be issued. The DOI can then be used in the article to refer to the dataset. Once the Swedish EGA is operational, and the dataset deposited there, the access information can be changed to point at the EGA ID. See [https://doi.org/10.17044/NBIS/G000014](https://doi.org/10.17044/NBIS/G000014), for an example.
 
-* Genome-wide association studies (GWAS): GWAS Catalog; EGA; GWAS Central
-* Adaptive Immune Receptor Repertoire sequencing (AIRR-seq)1 data and annotations can be submitted to dedicated repositories: iReceptor Public Archive (FAIRsharing 2020e) or VDJServer (FAIRsharing 2018b). It is also possible to submit these data to general purpose repositories (SRA, Genbank), for this process there are detailed instructions (AIRR Community 2020).
+  * **Transcriptomics (cell lines/animals)**: European Nucleotide Archive [ENA](https://www.ebi.ac.uk/ena). There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
+  * **Gene expression arrays**: [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/). The [submission portal](https://www.ebi.ac.uk/arrayexpress/submit/overview.html) gives information on what can be submitted and how.
+
+<!--- * **Genome-wide association studies (GWAS)**: [GWAS Catalog](https://doi.org/10.25504/FAIRsharing.blUMRx); EGA; [GWAS Central](https://doi.org/10.25504/FAIRsharing.vkr57k)
+* **Adaptive Immune Receptor Repertoire sequencing (AIRR-seq)**: samples the diversity of the immunoglobulins/antibodies and T cell receptors present in a host. The respective gene loci undergo random and irreversible rearrangement during lymphocyte development, therefore this data is fundamentally distinct from conventional genome sequencing. AIRR-seq data and annotations can be submitted to dedicated repositories: [iReceptor Public Archive](https://fairsharing.org/search/?q=AIRR) or [VDJServer](https://fairsharing.org/FAIRsharing.nzdq0f). It is also possible to submit these data to general purpose repositories (SRA, Genbank), for this process there are detailed instructions ([AIRR Community 2020](https://docs.airr-community.org/en/latest/api/adc_api.html)). -->
+
 ## Data and metadata standards
-1. Gene expression
-1.1. Transcriptomics.
-1.1.1. Preferred minimal metadata standard MINSEQE
-1.1.2. Preferred file formats (sequencing-based):
-1.1.2.1. Raw sequences: fastq (compression can be added with gzip)
-1.1.2.2. Mapped sequences: .sam (compression with .bam or .cram)
-1.1.2.3. Transcript count: TPM .csv
-1.1.3. Also see FAIRsharing using the query ‘transcriptomics’
-1.2. Microarrays:
-1.2.1. Preferred minimal metadata standard: MIAME.
-1.2.2. Preferred file formats tab-delimited text, raw data file formats from
+### Gene expression
+#### Transcriptomics:
+* Preferred minimal metadata standard: [MINSEQE](https://doi.org/10.25504/FAIRsharing.a55z32)
+* Preferred file formats (sequencing-based):
+  * Raw sequences: .fastq (compression can be added with gzip)
+  * Mapped sequences: [.sam](https://doi.org/10.25504/FAIRsharing.r2ts5t) (compression with [.bam](https://doi.org/10.25504/FAIRsharing.hza1ec) or .cram)
+  * Transcript count: TPM .csv
+* Also see [FAIRsharing using the query ‘transcriptomics’](https://fairsharing.org/standards/?q=transcriptomics)
+#### Microarrays:
+* Preferred minimal metadata standard: [MIAME](https://doi.org/10.25504/FAIRsharing.32b10v)
+* Preferred file formats tab-delimited text, raw data file formats from
 commercial microarray platforms (Affymetrix, Illumina etc)
-1 Adaptive Immune Receptor Repertoire sequencing (AIRR-seq) samples the diversity of the
-immunoglobulins/antibodies and T cell receptors present in a host. The respective gene loci undergo
-random and irreversible rearrangement during lymphocyte development, therefore this data is
-fundamentally distinct from conventional genome sequencing.
-RDA-COVID19 Working Group
-RDA COVID-19; recommendations and guidelines, 3rd release 8 May 2020 45
-2. Genome-wide association studies (GWAS):
-2.1. Preferred minimal metadata standard: MIxS
-2.2. Preferred file formats: for binary files: .bim .fam and .bed; for text-format files
-.ped and .map.
-3. Adaptive Immune Receptor Repertoire sequencing (AIRR-seq).
-3.1. Preferred minimal metadata standards: MiAIRR
-3.2. Preferred file formats:
-3.2.1. AIRR repertoire metadata (formatted as .JSON or .YAML), AIRR
-rearrangements (formatted as .TSV)
-3.3. Also see FAIRsharing using the query ‘AIRR’.
+
+<!--- ### Genome-wide association studies (GWAS):
+* Preferred minimal metadata standard: [MIxS](https://doi.org/10.25504/FAIRsharing.9aa0zp)
+* Preferred file formats: for binary files: .bim .fam and [.bed](https://doi.org/10.25504/FAIRsharing.mwmbpq); for text-format files .ped and .map
+
+### Adaptive Immune Receptor Repertoire sequencing (AIRR-seq).
+* Preferred minimal metadata standards: [MiAIRR](https://docs.airr-community.org/en/latest/miairr/introduction_miairr.html)
+* Preferred file formats: [AIRR repertoire metadata](https://docs.airr-community.org/en/latest/datarep/metadata.html#file-format-specification) (formatted as .JSON or .YAML), [AIRR rearrangements](https://docs.airr-community.org/en/latest/datarep/format.html#formatspecification) (formatted as .TSV)
+* Also see [FAIRsharing using the query ‘AIRR’](https://fairsharing.org/search/?q=AIRR) -->
+
