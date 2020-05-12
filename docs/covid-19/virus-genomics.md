@@ -1,7 +1,7 @@
 # Recommendations for Virus Genomics Data
 ## Repositories
 We suggest that raw virus sequence data as well as assembled and annotated genomes are submitted to [ENA](https://www.ebi.ac.uk/ena). 
-* There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
+* There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including [SARS-CoV-2 submission](https://ena-browser-docs.readthedocs.io/en/latest/help_and_guides/sars-cov-2-submissions.html) and extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
 * Before submission of raw sequence data (e.g. shotgun sequencing) it is necessary to remove contaminating human reads.
 
 ## Data and metadata standards
