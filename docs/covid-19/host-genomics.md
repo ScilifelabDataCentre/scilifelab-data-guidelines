@@ -17,8 +17,8 @@ Several different types of host genomics data are being collected for COVID-19 r
   * **Transcriptomics (cell lines/animals)**: European Nucleotide Archive [ENA](https://www.ebi.ac.uk/ena). There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including [SARS-CoV-2 submission](https://ena-browser-docs.readthedocs.io/en/latest/help_and_guides/sars-cov-2-submissions.html) and extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
   * **Gene expression arrays**: [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/). The [submission portal](https://www.ebi.ac.uk/arrayexpress/submit/overview.html) gives information on what can be submitted and how.
 
-<!--- * **Genome-wide association studies (GWAS)**: [GWAS Catalog](https://doi.org/10.25504/FAIRsharing.blUMRx); EGA; [GWAS Central](https://doi.org/10.25504/FAIRsharing.vkr57k)
-* **Adaptive Immune Receptor Repertoire sequencing (AIRR-seq)**: samples the diversity of the immunoglobulins/antibodies and T cell receptors present in a host. The respective gene loci undergo random and irreversible rearrangement during lymphocyte development, therefore this data is fundamentally distinct from conventional genome sequencing. AIRR-seq data and annotations can be submitted to dedicated repositories: [iReceptor Public Archive](https://fairsharing.org/search/?q=AIRR) or [VDJServer](https://fairsharing.org/FAIRsharing.nzdq0f). It is also possible to submit these data to general purpose repositories (SRA, Genbank), for this process there are detailed instructions ([AIRR Community 2020](https://docs.airr-community.org/en/latest/api/adc_api.html)). -->
+* **Genome-wide association studies (GWAS)**: [GWAS Catalog](https://doi.org/10.25504/FAIRsharing.blUMRx); [GWAS Central](https://doi.org/10.25504/FAIRsharing.vkr57k); for human data requiring restricted access please see section on *Transcriptomics of human subjects* above.
+* **Adaptive Immune Receptor Repertoire sequencing (AIRR-seq)**: samples the diversity of the immunoglobulins/antibodies and T cell receptors present in a host. The respective gene loci undergo random and irreversible rearrangement during lymphocyte development, therefore this data is fundamentally distinct from conventional genome sequencing. AIRR-seq data and annotations can be submitted to dedicated repositories: [iReceptor Public Archive](https://fairsharing.org/search/?q=AIRR) or [VDJServer](https://fairsharing.org/FAIRsharing.nzdq0f). It is also possible to submit these data to general purpose repositories (SRA, Genbank), for this process there are detailed instructions ([AIRR Community 2020](https://docs.airr-community.org/en/latest/api/adc_api.html)).
 
 ## Data and metadata standards
 ### Gene expression
@@ -34,12 +34,12 @@ Several different types of host genomics data are being collected for COVID-19 r
 * Preferred file formats tab-delimited text, raw data file formats from
 commercial microarray platforms (Affymetrix, Illumina etc)
 
-<!--- ### Genome-wide association studies (GWAS):
+### Genome-wide association studies (GWAS):
 * Preferred minimal metadata standard: [MIxS](https://doi.org/10.25504/FAIRsharing.9aa0zp)
 * Preferred file formats: for binary files: .bim .fam and [.bed](https://doi.org/10.25504/FAIRsharing.mwmbpq); for text-format files .ped and .map
 
 ### Adaptive Immune Receptor Repertoire sequencing (AIRR-seq).
 * Preferred minimal metadata standards: [MiAIRR](https://docs.airr-community.org/en/latest/miairr/introduction_miairr.html)
 * Preferred file formats: [AIRR repertoire metadata](https://docs.airr-community.org/en/latest/datarep/metadata.html#file-format-specification) (formatted as .JSON or .YAML), [AIRR rearrangements](https://docs.airr-community.org/en/latest/datarep/format.html#formatspecification) (formatted as .TSV)
-* Also see [FAIRsharing using the query ‘AIRR’](https://fairsharing.org/search/?q=AIRR) -->
+* Also see [FAIRsharing using the query ‘AIRR’](https://fairsharing.org/search/?q=AIRR)
 
