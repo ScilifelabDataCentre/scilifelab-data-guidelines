@@ -39,7 +39,9 @@ In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Fi
 * [PRIDE](https://www.ebi.ac.uk/pride/) - admits protein and peptide identification/quantification data with the accompanying mass spectra evidence and any other related data types. Submission is done using the [PX Submission Tool](https://www.ebi.ac.uk/pride/markdownpage/pridesubmissiontool), see [tutorial](https://www.ebi.ac.uk/pride/static/markdown/submitdatapage/files/Submission_Tutorial.pdf).
 * [PeptideAtlas](http://www.peptideatlas.org/) - for SRM/MRM data that does not fit into PRIDE (targeted datasets). Submission is done via [PASSEL](http://www.peptideatlas.org/passel/).
 
-#### Other repositories
+### Other repositories
+If you have data that requires controlled access because of personal privacy issues, informed consents, and/or ethical approvals etc, we suggest to store the data locally in a secure environment and make a metadata-only record in the [SciLifeLab Data Repository](https://scilifelab.figshare.com/) with contact details on how to get access, and for which a DOI (ie a persistent identifier) can be issued. The DOI can then be used in the article to refer to the dataset.
+
 For other domain-specific repositories, see e.g. [ELIXIR Deposition databases](https://elixir-europe.org/services/tag/elixir-deposition-databases), [Scientific Data recommended repositories](https://www.nature.com/sdata/policies/repositories), [EBI archive wizard](https://www.ebi.ac.uk/submission/) (help to find the right repository depending on data type), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into domain-specifik repositories, use an institutional repository when available (e.g. [SciLifeLab Data Repository](https://scilifelab.figshare.com/)) or a general repository such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
 
 ## Feedback
