@@ -3,7 +3,7 @@
 
 Lipidomics reveal an altered lipid composition in infected cells (serum lipid levels in patients with preexisting conditions). Lipid rafts (lipid microdomains) play a critical role in viral infections facilitating virus entry, replication, assembly and budding. Lipid rafts are enriched in
 glycosphingolipids, sphingomyelin and cholesterol. It is likely that coronavirus (SARS-CoV-2) enters the cell via angiotensin-converting enzyme-2 (ACE2) that depends on the integrity of lipid rafts in the infected cell membrane.
-## Generic Recommendations for Researchers
+## General Recommendations for Researchers
 Lipidomics analysis should follow the guidelines of the [Lipidomic Standards Initiative](https://lipidomics-standards-initiative.org/guidelines)
 
 ### Repositories
