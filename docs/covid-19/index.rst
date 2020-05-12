@@ -4,9 +4,10 @@ COVID-19
 General information
 ###################
 Please see the `Swedish COVID-19 Data Portal <https://www.covid19dataportal.se/>`_ 
-for the latest information regarding Swedish efforts in COVID-19 research. 
+for the latest information regarding Swedish efforts in COVID-19 research, including 
+data generating facilities. 
 Also see the `European COVID-19 Data Portal <https://www.covid19dataportal.org/>`_
-for useful information.
+for useful information on European level.
 
 Data management plan
 ####################
