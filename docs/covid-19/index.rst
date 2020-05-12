@@ -35,7 +35,8 @@ The guidelines in all sections regarding COVID-19 has been adapted from the
 `Research Data Alliance <https://rd-alliance.org/>`_ 3rd release of the 
 `COVID-19 Data Sharing Recommendations & Guidelines <https://www.rd-alliance.org/system/files/RDA%20COVID-19%3B%20recommendations%20and%20guidelines%2C%203rd%20release%208%20May%202020.pdf>`_
 
-In general:*
+**In general:**
+
 * Think early about systematic naming of filenames. Not thinking about it early enough is 
   often the cause of a lot of extra work when the data is not stored in a database and 
   researchers have to rename a large number of files manually at a later stage.
