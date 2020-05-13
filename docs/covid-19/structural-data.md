@@ -1,7 +1,11 @@
 # Recommendations for Structural data
 ## Repositories
 Several different types of structural data are being collected for Covid-19 research. Some suitable repositories for these are:
-* Structural data on proteins acquired using any experimental technique should be deposited in the [wwPDB: Worldwide Protein Data Bank](https://doi.org/10.25504/FAIRsharing.mckkb4) via Europe EBI [PDBe (PDBe-KB)](https://doi.org/10.25504/FAIRsharing.26ek1v).
+* Structural data on proteins acquired using x-ray crystallography and nuclear magnetic resonance techniques should be deposited in the [wwPDB: Worldwide Protein Data Bank](https://doi.org/10.25504/FAIRsharing.mckkb4) via Europe EBI [PDBe (PDBe-KB)](https://doi.org/10.25504/FAIRsharing.26ek1v).
+
+* Structural data on proteins acquired using electron microscopy and tomography techniques should be deposited in the Electron Microscopy
+Public Image Archive [EMPIAR](https://www.ebi.ac.uk/pdbe/emdb/empiar/).
+
 
 * A public information sharing portal and data repository for the drug discovery community, initiated by the Global Health Drug Discovery Institute of China (GHDDI) is the [GHDDI Info Sharing Portal](https://ghddi-ailab.github.io/Targeting2019-nCoV/) and includes the following: a) compound libraries including the [ReFRAME](https://reframedb.org/) compound library (the world’s largest collection of its kind, containing over 12,000 known drugs), a diversity-based synthetic compound library, a natural product library, a traditional Chinese medicine extract library, b) [Drug Discovery Cloud Computing System on Alibaba Cloud](https://www.alibabacloud.com/solutions/lifesciences-ehpc), c) Data mining and integration of historical drug discovery efforts against coronavirus (e.g. SARS/MERS) using AI and big data, d) Molecular chemical modeling and simulation data using computational tools.
 
