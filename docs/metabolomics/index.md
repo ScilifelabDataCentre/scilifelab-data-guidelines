@@ -44,6 +44,9 @@ If you have data that requires controlled access because of personal privacy iss
 
 For other domain-specific repositories, see e.g. [ELIXIR Deposition databases](https://elixir-europe.org/services/tag/elixir-deposition-databases), [Scientific Data recommended repositories](https://www.nature.com/sdata/policies/repositories), [EBI archive wizard](https://www.ebi.ac.uk/submission/) (help to find the right repository depending on data type), or [FAIRsharing](https://fairsharing.org/databases/) (the latter can also assist in finding metadata standards suitable for describing your datasets). For datasets that do not fit into domain-specifik repositories, use an institutional repository when available (e.g. [SciLifeLab Data Repository](https://scilifelab.figshare.com/)) or a general repository such as [Figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
 
+### Metadata
+For information about metadata and how to find appropriate standards please see the page [Metadata](/docs/general/metadata).
+
 ## Feedback
 Any comments or questions? Please don't hesitate to send an email to [data-management@scilifelab.se](mailto:data-management@scilifelab.se)
 
