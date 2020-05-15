@@ -15,7 +15,7 @@ For a curated list of relevant standards see [FAIRsharing](https://fairsharing.o
 ### Metabolomics/Lipidomics:
 * [CIMR](https://doi.org/10.25504/FAIRsharing.exz30t) standard, [SMILES](https://doi.org/10.25504/FAIRsharing.qv4b3c), [InChl](https://doi.org/10.25504/FAIRsharing.ddk9t9), [ISA-Tab](https://doi.org/10.25504/FAIRsharing.53gp75), ([MetaboLights](https://doi.org/10.25504/FAIRsharing.kkdpxe))/mwTab ([Metabolomics Workbench](https://doi.org/10.25504/FAIRsharing.xfrgsf))
 * Formats for LC-MS data use: [ANDI-MS](https://fairsharing.org/bsg-s001216/), [mzML](https://doi.org/10.25504/FAIRsharing.26dmba)
-* Fomrats for NMR data: [nmrCV](https://doi.org/10.25504/FAIRsharing.xm7tkj), [nmrML](https://doi.org/10.25504/FAIRsharing.es03fk)
+* Formats for NMR data: [nmrCV](https://doi.org/10.25504/FAIRsharing.xm7tkj), [nmrML](https://doi.org/10.25504/FAIRsharing.es03fk)
 ### Proteomics
 * Use the minimal information model specified in [MIAPE](https://doi.org/10.25504/FAIRsharing.8vv5fc), and these are filled using the controlled vocabularies specified by the Proteomics Standards Initiative: [PSI CVs](https://doi.org/10.25504/FAIRsharing.sxh2dp)
 * Formats: (gelML), TraML, mzML, mzTab, mzQuantML, mzIdentML
