@@ -14,8 +14,16 @@ Data management plan
 It is wise to write a data management plan, using either a tool provided by your 
 university or `DS wizard <http://dsw.scilifelab.se/>`_.
 
-Project-specific analysis
-#########################
+Data generation
+###############
+SciLifeLab `National Genomics Infrastructure <https://ngisweden.scilifelab.se/>`_ (NGI) 
+provide a wide range of sequencing technologies and can offer state-of-the-art solutions 
+for many different types of COVID-19 sequencing projects. 
+`Chemical proteomics & proteogenomics <https://www.scilifelab.se/facilities/chemical-proteomics-proteogenomics/>`_ 
+and `BioMS <https://bioms.se/>`_ offers mass spectrometry support.
+
+Data analysis
+#############
 `NBIS <https://nbis.se/support/>`_ (National Bioinformatics 
 Infrastructure Sweden) is a national research infrastructure that offers 
 bioinformatic support in various forms for a wide range of areas including 
