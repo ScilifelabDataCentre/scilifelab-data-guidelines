@@ -25,7 +25,7 @@ Several different types of host genomics data are being collected for COVID-19 r
 #### Transcriptomics:
 * Preferred minimal metadata standard: [MINSEQE](https://doi.org/10.25504/FAIRsharing.a55z32)
 * Preferred file formats (sequencing-based):
-  * Raw sequences: .fastq (compression can be added with gzip)
+  * Raw sequences: [.fastq](https://doi.org/10.25504/FAIRsharing.r2ts5t) (compression can be added with gzip)
   * Mapped sequences: [.sam](https://doi.org/10.25504/FAIRsharing.r2ts5t) (compression with [.bam](https://doi.org/10.25504/FAIRsharing.hza1ec) or .cram)
   * Transcript count: TPM .csv
 * Also see [FAIRsharing using the query ‘transcriptomics’](https://fairsharing.org/standards/?q=transcriptomics)
