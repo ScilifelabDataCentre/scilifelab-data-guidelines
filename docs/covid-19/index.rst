@@ -7,15 +7,25 @@ Please see the `Swedish COVID-19 Data Portal <https://www.covid19dataportal.se/>
 for the latest information regarding Swedish efforts in COVID-19 research, including 
 data generating facilities. 
 Also see the `European COVID-19 Data Portal <https://www.covid19dataportal.org/>`_ 
-and `Horizon 2020 guidelines regarding COVID-19 <https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/oa-pilot/h2020-guidelines-oa-covid-19_en.pdf>`_ for useful information on European level.
+and `Horizon 2020 guidelines regarding COVID-19 <https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/oa-pilot/h2020-guidelines-oa-covid-19_en.pdf>`_ 
+for useful information on European level.
 
 Data management plan
 ####################
 It is wise to write a data management plan, using either a tool provided by your 
 university or `DS wizard <http://dsw.scilifelab.se/>`_.
 
-Project-specific analysis
-#########################
+Data generation
+###############
+SciLifeLab `National Genomics Infrastructure <https://ngisweden.scilifelab.se/>`_ (NGI) 
+provide a wide range of sequencing technologies and can offer state-of-the-art solutions 
+for many different types of COVID-19 sequencing projects. 
+`Chemical proteomics & proteogenomics <https://www.scilifelab.se/facilities/chemical-proteomics-proteogenomics/>`_ 
+and `BioMS <https://bioms.se/>`_ offers mass spectrometry support.
+For a complete list please visit `Swedish COVID-19 Data Portal <https://www.covid19dataportal.se/>`_.
+
+Data analysis
+#############
 `NBIS <https://nbis.se/support/>`_ (National Bioinformatics 
 Infrastructure Sweden) is a national research infrastructure that offers 
 bioinformatic support in various forms for a wide range of areas including 

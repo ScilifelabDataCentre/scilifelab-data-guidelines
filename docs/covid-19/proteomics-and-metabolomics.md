@@ -5,7 +5,7 @@ For a curated list of relevant repositories see [FAIRsharing](https://fairsharin
  
 * Metabolomics/Lipidomics data can be submitted to [MetaboLights](https://doi.org/10.25504/FAIRsharing.kkdpxe)
 
-* The [ProteomeXchange Consortium](https://doi.org/10.25504/FAIRsharing.92dt9d) provides: [PRIDE](https://doi.org/10.25504/FAIRsharing.e1byny), [PeptideAtlas](https://doi.org/10.25504/FAIRsharing.dvyrsz), [MassIVE](https://doi.org/10.25504/FAIRsharing.LYsiMd), [jPOST | Japan Proteome Standard Repository/Database](https://doi.org/10.25504/FAIRsharing.p899f7), [iProX - integrated Proteome resources](https://doi.org/10.25504/FAIRsharing.4Sj3vE), [Panorama](https://panoramaweb.org/project/home/begin.view)
+* The [ProteomeXchange Consortium](https://doi.org/10.25504/FAIRsharing.92dt9d) provides: [PRIDE](https://doi.org/10.25504/FAIRsharing.e1byny),  [MassIVE](https://doi.org/10.25504/FAIRsharing.LYsiMd), [Panorama](https://panoramaweb.org/project/home/begin.view)
 * Non-mass spectrometry based proteomics (ELISA, Luminex, ELISPOT,
 neutralizing antibody titer), Flow Cytometry, Mass Cytometry/CyToF and HLA/KIR typing data can be submitted to [ImmPort](https://doi.org/10.25504/FAIRsharing.bpkzqp).
 

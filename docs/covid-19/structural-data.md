@@ -6,9 +6,6 @@ Several different types of structural data are being collected for Covid-19 rese
 * Structural data on proteins acquired using electron microscopy and tomography techniques should be deposited in the Electron Microscopy
 Public Image Archive [EMPIAR](https://www.ebi.ac.uk/pdbe/emdb/empiar/).
 
-
-* A public information sharing portal and data repository for the drug discovery community, initiated by the Global Health Drug Discovery Institute of China (GHDDI) is the [GHDDI Info Sharing Portal](https://ghddi-ailab.github.io/Targeting2019-nCoV/) and includes the following: a) compound libraries including the [ReFRAME](https://reframedb.org/) compound library (the world’s largest collection of its kind, containing over 12,000 known drugs), a diversity-based synthetic compound library, a natural product library, a traditional Chinese medicine extract library, b) [Drug Discovery Cloud Computing System on Alibaba Cloud](https://www.alibabacloud.com/solutions/lifesciences-ehpc), c) Data mining and integration of historical drug discovery efforts against coronavirus (e.g. SARS/MERS) using AI and big data, d) Molecular chemical modeling and simulation data using computational tools.
-
 ## Locating existing data 
 A community data repository and curation service for Structure, Models, Therapeutics, Simulations related computations for research into the SARS-CoV-2 / COVID-19 / ”Coronavirus” pandemic is maintained by [The Molecular Sciences Software Institute (MolSSI)](https://molssi.org/) and [BioExcel](https://bioexcel.eu/) and [can be found here](https://covid.bioexcel.eu/).
 
