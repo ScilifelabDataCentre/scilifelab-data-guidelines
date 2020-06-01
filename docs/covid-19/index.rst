@@ -43,8 +43,8 @@ size and type of project.
 Guidelines about repositories, data formats and metadata standards
 ##################################################################
 The guidelines in all sections regarding COVID-19 has been adapted from the 
-`Research Data Alliance <https://rd-alliance.org/>`_ 3rd release of the 
-`COVID-19 Data Sharing Recommendations & Guidelines <https://www.rd-alliance.org/system/files/RDA%20COVID-19%3B%20recommendations%20and%20guidelines%2C%203rd%20release%208%20May%202020.pdf>`_
+`Research Data Alliance <https://rd-alliance.org/>`_ 5th release of the 
+`COVID-19 Data Sharing Recommendations & Guidelines <https://www.rd-alliance.org/system/files/RDA%20COVID-19%3B%20recommendations%20and%20guidelines%2C%205th%20release%20%28final%20draft%29%2028%20May%202020.pdf>`_
 
 **In general:**
 
