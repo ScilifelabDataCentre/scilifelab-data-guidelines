@@ -19,66 +19,85 @@ Below are ontology resources, adapted from Table 2 in *Griffin PC, Khadake J, Le
 
 ## Data and metadata standards genomics data
 A list of relevant data and metadata standards can be found in [FAIRsharing](https://fairsharing.org/search/?q=genomics&content=standards), some specific examples are below.
-
+### Gene expression
 #### Transcriptomics:
-* Preferred minimal metadata standard: [MINSEQE](https://doi.org/10.25504/FAIRsharing.a55z32) (or http://fged.org/site_media/pdf/MINSEQE_1.0.pdf) (Minimum Information about a high- throughput SEQuencing Experiment)  
+* Preferred minimal metadata standard: [MINSEQE](http://www.fged.org/projects/minseqe/)
 * Preferred file formats (sequencing-based):
-  * Raw sequences: [.fastq](https://doi.org/10.25504/FAIRsharing.r2ts5t) (compression can be added with gzip)
-  * Sequences mapped to a genome: [.sam](https://doi.org/10.25504/FAIRsharing.r2ts5t) (compression with [.bam](https://doi.org/10.25504/FAIRsharing.hza1ec) or .cram). Please ensure that the used reference sequence is also publically available and that the @SQ header is present and unambiguously describes the used reference sequence.
-  * Transcript count: TPM .csv
+  * Raw sequences: [.fastq](https://www.open-bio.org/2009/12/17/nar-fastq-format/) (compression can be added with gzip)
+  * Mapped sequences: [.sam](https://github.com/samtools/samtools) (compression with [.bam](http://genome.ucsc.edu/goldenPath/help/bam.html) or [.cram](https://www.sanger.ac.uk/science/tools/cram)). Please ensure that the used reference sequence is also publically available and that the @SQ header is present and unambiguously describes the used reference sequence.
+  * Transcripts per million (TPM): [.csv](https://tools.ietf.org/html/rfc4180)
+
 * **Gene Structure:** [.gtf](https://doi.org/10.25504/FAIRsharing.sggb1n)
 * **Gene Features:** [.gff](https://doi.org/10.25504/FAIRsharing.dnk0f6)
 * **Variant calling:** [.vcf](https://doi.org/10.25504/FAIRsharing.cfzz0h). Please ensure that the used reference sequence is also publically available and that it is unambiguously referenced in the header of the .vcf file, e.g. using the URL field of the ##contig field.
 * Also see [FAIRsharing using the query ‘transcriptomics’](https://fairsharing.org/standards/?q=transcriptomics)
 
-#### Microarrays:
-* Preferred minimal metadata standard: [MIAME](https://doi.org/10.25504/FAIRsharing.32b10v)
-* Preferred file formats tab-delimited text, raw data file formats from
-commercial microarray platforms (Affymetrix, Illumina etc)
+#### Microarray-based gene expression data:
+* Preferred minimal metadata standard: [MIAME](http://www.fged.org/projects/miame/)
+* Preferred file formats: tab-delimited text eg [MAGE-TAB](http://fged.org/projects/mage-tab/) and [ISA-TAB](https://isa-tools.org/), and raw data file formats from commercial microarray platforms ([Annotare accepted formats](https://www.ebi.ac.uk/fg/annotare/help/accepted_raw_ma_file_formats.html))
 
 ### Genome-wide association studies (GWAS):
 * Preferred minimal metadata standard: [MIxS](https://doi.org/10.25504/FAIRsharing.9aa0zp)
-* Preferred file formats: for binary files: .bim .fam and [.bed](https://doi.org/10.25504/FAIRsharing.mwmbpq); for text-format files .ped and .map
+* Preferred file formats 
+  *  for binary files: [.bim](https://www.cog-genomics.org/plink2/formats#bim), [.fam](https://www.cog-genomics.org/plink2/formats#fam) and [.bed](https://www.cog-genomics.org/plink2/formats#bed)
+  *  for text-format files: [.ped](https://www.cog-genomics.org/plink2/formats#ped) and [.map](https://www.cog-genomics.org/plink2/formats#map)
 
 ## Data and metadata standards Proteomics
 For a curated list of relevant standards see [FAIRsharing](https://fairsharing.org) using the query ’[proteomics](https://fairsharing.org/search/?q=proteomics&content=standard&name=&taxonomies=&organisations=&shortname=&description=&supportlinks=&licenses=&countries=&maintainers=&expanded_onto_domains=&expanded_onto_disciplines=&user_defined_tags=&record_id=&miriam_id=&search_state=hidden)’ 
 
-* Use the minimal information model specified in [MIAPE](https://doi.org/10.25504/FAIRsharing.8vv5fc) (or http://www.psidev.info/miape), (Minimum Information About a Proteomics Experiment) and these are filled using the controlled vocabularies specified by the Proteomics Standards Initiative: [PSI CVs](https://doi.org/10.25504/FAIRsharing.sxh2dp)
-* Formats: (gelML), TraML, mzML, mzTab, mzQuantML, mzIdentML
+* Use the minimal information model specified in [MIAPE](http://www.psidev.info/miape) by the HUPO Proteomics Standards
+Initiative ([HUPO PSI](https://doi.org/10.1038/nbt1329)), and fill the model using the controlled vocabularies specified by the Proteomics Standards Initiative: [PSI CVs](http://www.psidev.info/groups/mass-spectrometry#controlled)
+* Recommended formats: 
+  * For gel electrophoresis [gelML](http://www.psidev.info/gelml/1.0))
+  * For transition lists [TraML](http://www.psidev.info/traml)
+  * For raw spectrometer output [mzML](http://www.psidev.info/mzml)
+  * For reporting [mzTab](http://www.psidev.info/mztab)
+  * For protein quantisation data [mzQuantML](http://www.psidev.info/mzquantml)
+  * For protein identification data [mzIdentML](http://www.psidev.info/mzidentml)
+  * For metadata [ISA-TAB](https://isa-tools.org/) with conversion to PRIDE format
 
-## Data and metadata standards Metabolomics/Lipidomics:
+## Data and metadata standards Metabolomics:
 For a curated list of relevant standards see [FAIRsharing](https://fairsharing.org) using the query ‘[metabolomics](https://fairsharing.org/search/?q=metabolomics&content=standard&name=&taxonomies=&organisations=&shortname=&description=&supportlinks=&licenses=&countries=&maintainers=&expanded_onto_domains=&expanded_onto_disciplines=&user_defined_tags=&record_id=&miriam_id=&search_state=hidden)’.
 
-* [Metabolomics Standards Initiative (MSI) standards](http://www.metabolomics-msi.org/)
-Minimal reporting structures that represent different parts of the metabolomics workflow. Developed by the Metabolomics Standards Initiative (MSI) and the Coordination of Standards in Metabolomics (COSMOS) consortium. 
+* Core Information for Metabolomics Reporting [CIMR](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/) standard
+* For identifying chemical compounds use [SMILES](https://doi.org/10.25504/FAIRsharing.qv4b3c) or [InChl](https://doi.org/10.25504/FAIRsharing.ddk9t9)
+* To document Investigation/Study/Assay data, use the [ISA Abstract Model](https://isa-specs.readthedocs.io/en/latest/), also implemented as
+a tabular format, [ISA-Tab](https://doi.org/10.25504/FAIRsharing.53gp75) in [MetaboLights](https://www.ebi.ac.uk/metabolights). For an introduction to ISA, see ([Sansone S-A et al., 2012](https://doi.org/10.1038/ng.1054))
 
-* [CIMR](https://doi.org/10.25504/FAIRsharing.exz30t) standard, [SMILES](https://doi.org/10.25504/FAIRsharing.qv4b3c), [InChl](https://doi.org/10.25504/FAIRsharing.ddk9t9), [ISA-Tab](https://doi.org/10.25504/FAIRsharing.53gp75), ([MetaboLights](https://doi.org/10.25504/FAIRsharing.kkdpxe))/mwTab ([Metabolomics Workbench](https://doi.org/10.25504/FAIRsharing.xfrgsf))
-* Formats for LC-MS data use: [ANDI-MS](https://fairsharing.org/bsg-s001216/), [mzML](https://doi.org/10.25504/FAIRsharing.26dmba)
-* Formats for NMR data: [nmrCV](https://doi.org/10.25504/FAIRsharing.xm7tkj), [nmrML](https://doi.org/10.25504/FAIRsharing.es03fk)
+* Recommended formats for LC-MS data: [ANDI-MS](https://fairsharing.org/bsg-s001216/) specification, an analytical data interchange protocol for chromatographic data
+representation and/or [mzML](http://www.psidev.info/mzML)
+* Recommended formats for NMR data: [nmrCV](http://nmrml.org/cv/), [nmrML](http://nmrml.org/schema/)
+
+## Data and metadata standards Lipidomics:
+
+* Metadata should follow recommendations from the [CIMR standard](http://msi-workgroups.sourceforge.net/bio-metadata/) by the Metabolomics Standards Initiative. It should be made available as tab or comma separated files (.tsv or .csv).
+
+* Data can be stored in LC-MS file,  in tab (.tsv) or comma (.csv) separated formats.
 
 ## Data and metadata standards Structural data / Imaging
 **X-ray diffraction**
-* There are no widely accepted standards for X-ray raw data files. Generally these are stored and archived in the Vendor’s native formats. Metadata is stored in CBF/[imgCIF](https://doi.org/10.25504/FAIRsharing.zr52g5) format (see: [catalogue of metadata resources for crystallographic applications](https://www.iucr.org/resources/data/dddwg/metadata-catalogue)). 
-* Processed structural information is submitted to structural databases in the .pdf or [.mmCIF](https://doi.org/10.25504/FAIRsharing.fd28en) format.
+* There are no widely accepted standards for X-ray raw data files. Generally these are stored and archived in the Vendor’s native formats. Metadata is stored in CBF/[imgCIF](https://www.iucr.org/resources/cif) format (see: [catalogue of metadata resources for crystallographic applications](https://www.iucr.org/resources/data/dddwg/metadata-catalogue)). 
+* Processed structural information is submitted to structural databases in the [PDBx/.mmCIF](http://mmcif.pdb.org/) format.
 
 **Electron microscopy**
 * Data archiving and validation standards for cryo-EM maps and models are coordinated internationally by [EMDataResource](http://emdataresource.org/) (EMDR).
-* Every cryo-EM structure (map, experimental metadata, and optionally coordinate model) is deposited and processed through the wwPDB OneDep system (deposit.wwpdb.org), following the same annotation and validation workflow also used for X-ray crystallography and NMR structures. EMDB holds all workflow metadata while PDB holds a subset of the metadata.
+* Cryo-EM structures (map, experimental metadata, and optionally coordinate model) are deposited and processed through the [wwPDB OneDep system](https://deposit-2.wwpdb.org/), following the same annotation and validation workflow also used for X-ray crystallography and nuclear magnetic resonance (NMR) structures. EMDB holds all workflow metadata while PDB holds a subset of the metadata.
 * Most electron microscopy data is stored in either raw data formats (binary, bitmap images, tiff, etc.) or proprietary formats developed by vendors (dm3, emispec, etc.).
-* Processed structural information is submitted to structural resources as [PDBx/mmCIF](https://doi.org/10.25504/FAIRsharing.fd28en).
-* Experimental metadata include information about the sample, specimen
-preparation, imaging, image processing, symmetry, reconstruction method,
+* Processed structural information is submitted to structural resources as [PDBx/mmCIF](http://mmcif.pdb.org/).
+* Experimental metadata include information about the sample, specimen preparation, imaging, image processing, symmetry, reconstruction method,
 resolution and resolution method, as well as a description of the modeling/fitting procedures used and are described in [EMDR](http://emdataresource.org/index.html), see also [Lawson et al 2020](https://aca.scitation.org/doi/10.1063/1.5138589).
 
 **NMR**
 * There are no widely accepted standards for NMR raw data files. Generally these are stored and archived in single FID/SER files.
 * One effort for the standardization of NMR parameters extracted from 1D and 2D spectra of organic compounds to the proposed chemical structure is the [NMReDATA](http://nmredata.org/) format.
-* There is no universally accepted format, especially for crucial FID-associated metadata. The [NMR-STAR](http://www.bmrb.wisc.edu/dictionary/3.1html_frame/frame_index.html) is the archival format used by the Biological Nuclear Magnetic Resonance data Bank (BMRB), the international repository of biomolecular NMR data and an archive of the Worldwide Protein Data Bank (wwPDB [2018](https://link.springer.com/article/10.1007/s10858-018-0220-3#ref-CR23)).
-* The [nmrML format specification](http://nmrml.org/) (XML Schema Definition (XSD) and an accompanying controlled vocabulary called nmrCV) is an open mark up language and ontology for NMR data.
+* There is no universally accepted format, especially for crucial FID-associated metadata. [NMR-STAR](http://www.bmrb.wisc.edu/formats.shtml) and its [NMR-STAR Dictionary](https://github.com/uwbmrb/nmr-star-dictionary) is the archival format used by the [Biological Nuclear Magnetic Resonance data Bank](http://www.bmrb.wisc.edu/) (BMRB), the international repository of biomolecular NMR data and an archive of the [Worldwide Protein Data Bank](http://www.wwpdb.org/) (wwPDB).
+* The [nmrML format specification](http://nmrml.org/) (XML Schema Definition (XSD) and an accompanying controlled vocabulary called nmrCV) are an open mark up language and ontology for NMR data.
+* Processed structural information is submitted in the [PDBx/mmCIF](http://mmcif.pdb.org/) format.
 
 **Neutron scattering**
-* The nuclear data evaluations have been separately released from different countries. ENDF/B-VI of Cross-Section Evaluation Working Group (CSEWG) and JEFF of OECD/NEA have been widely utilized in the nuclear community. The latest versions of the two nuclear reaction data libraries are JEFF-3.3 in 2017 ([Cabellos et al., 2017](https://www.sciencedirect.com/science/article/pii/S0969804319301484#bib4)) and ENDF/B-VIII.0 in 2018 ([Brown et al., 2018](https://www.sciencedirect.com/science/article/pii/S0969804319301484#bib3)) with a significant upgrade in data for a number of nuclides ([Carlson et al., 2018](https://www.sciencedirect.com/science/article/pii/S0969804319301484#bib6)).
+* ENDF/B-VI of Cross-Section Evaluation Working Group ([CSEWG](https://www.nndc.bnl.gov/csewg/)) and JEFF of OECD/NEA have been widely utilized in the nuclear community. The latest versions of the two nuclear reaction data libraries are [JEFF-3.3](https://www.oecd-nea.org/dbdata/jeff/) and ENDF/B-VIII.0 ([Brown et al., 2018](https://www.sciencedirect.com/science/article/pii/S0969804319301484#bib3)) with a significant upgrade in data for a number of nuclides ([Carlson et al., 2018](https://www.sciencedirect.com/science/article/pii/S0969804319301484#bib6)).
 * Neutron scattering data are stored in the internationally-adopted [ENDF-6](https://www.oecd-nea.org/dbdata/data/manual-endf/endf102.pdf) format maintained by [CSEWG](https://www.nndc.bnl.gov/csewg/).
+* Processed structural information is submitted in the [PDBx/mmCIF](http://mmcif.pdb.org/) format.
 
 ## Other metadata standards
  
