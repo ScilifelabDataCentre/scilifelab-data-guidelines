@@ -36,7 +36,7 @@ submission processes](https://docs.airr-community.org/en/latest/standards/data_s
   * Mapped sequences: [.sam](https://github.com/samtools/samtools) (compression with [.bam](http://genome.ucsc.edu/goldenPath/help/bam.html) or [.cram](https://www.sanger.ac.uk/science/tools/cram))
   * Transcripts per million (TPM): [.csv](https://tools.ietf.org/html/rfc4180)
 * Also see [FAIRsharing using the query ‘transcriptomics’](https://fairsharing.org/standards/?q=transcriptomics)
-#### Microarray-basedgene expression data:
+#### Microarray-based gene expression data:
 * Preferred minimal metadata standard: [MIAME](http://www.fged.org/projects/miame/)
 * Preferred file formats: tab-delimited text eg [MAGE-TAB](http://fged.org/projects/mage-tab/) and [ISA-TAB](https://isa-tools.org/), and raw data file formats from commercial microarray platforms ([Annotare accepted formats](https://www.ebi.ac.uk/fg/annotare/help/accepted_raw_ma_file_formats.html))
 

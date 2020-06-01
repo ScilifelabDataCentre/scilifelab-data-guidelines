@@ -71,6 +71,7 @@ types and resources:
   virus-genomics
   host-genomics
   structural-data
-  proteomics-and-metabolomics
+  proteomics
+  metabolomics
   lipidomics
 
