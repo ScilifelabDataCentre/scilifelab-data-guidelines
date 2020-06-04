@@ -10,19 +10,21 @@ Also see the `European COVID-19 Data Portal <https://www.covid19dataportal.org/>
 and `Horizon 2020 guidelines regarding COVID-19 <https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/oa-pilot/h2020-guidelines-oa-covid-19_en.pdf>`_ 
 for useful information on European level.
 
+Data Life Cycle
+###############
 The data life cycle is typically divided into design, generation, analysis, 
 storage & archiving, and sharing. Below you will find information about 
 infrastructure resources available during these phases.
 
- :ref:`/docs/images/data_life_cycle_circle_logos.png`
+.. image:: data_life_cycle_circle_logos.png
 
 Data management plan
-####################
+****************************
 It is wise to write a data management plan, using either a tool provided by your 
 university or `DS wizard <http://dsw.scilifelab.se/>`_.
 
 Data generation
-###############
+****************************
 SciLifeLab `National Genomics Infrastructure <https://ngisweden.scilifelab.se/>`_ (NGI) 
 provide a wide range of sequencing technologies and can offer state-of-the-art solutions 
 for many different types of COVID-19 sequencing projects. 
@@ -31,14 +33,14 @@ and `BioMS <https://bioms.se/>`_ offers mass spectrometry support.
 For a complete list please visit `Swedish COVID-19 Data Portal <https://www.covid19dataportal.se/>`_.
 
 Data analysis
-#############
+****************************
 `NBIS <https://nbis.se/support/>`_ (National Bioinformatics 
 Infrastructure Sweden) is a national research infrastructure that offers 
 bioinformatic support in various forms for a wide range of areas including 
 NGS, proteomics, metabolomics and biostatistics.
 
 Computational resources
-#######################
+****************************
 `SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure 
 for Computing) is a national research infrastructure that makes available 
 large scale high performance computing resources. 
@@ -47,7 +49,7 @@ for Small, Medium, Large or Sensitive data allocation, depending on
 size and type of project.
 
 Guidelines about repositories, data formats and metadata standards
-##################################################################
+************************************************************************************
 The guidelines in all sections regarding COVID-19 has been adapted from the 
 `Research Data Alliance <https://rd-alliance.org/>`_ 5th release of the 
 `COVID-19 Data Sharing Recommendations & Guidelines <https://www.rd-alliance.org/system/files/RDA%20COVID-19%3B%20recommendations%20and%20guidelines%2C%205th%20release%20%28final%20draft%29%2028%20May%202020.pdf>`_
