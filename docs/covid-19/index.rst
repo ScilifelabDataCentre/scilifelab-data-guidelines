@@ -74,9 +74,9 @@ and medium-sized datasets. In the future also large-sized storage will be offere
 
 Data sharing
 ****************************
-The guidelines in all sections regarding COVID-19 has been adapted from the 
+The guidelines in all subsections regarding COVID-19 has been adapted from the 
 `Research Data Alliance <https://rd-alliance.org/>`_ 5th release of the 
-`COVID-19 Data Sharing Recommendations & Guidelines <https://www.rd-alliance.org/system/files/RDA%20COVID-19%3B%20recommendations%20and%20guidelines%2C%205th%20release%20%28final%20draft%29%2028%20May%202020.pdf>`_
+`COVID-19 Data Sharing Recommendations & Guidelines <https://www.rd-alliance.org/system/files/RDA%20COVID-19%3B%20recommendations%20and%20guidelines%2C%205th%20release%20%28final%20draft%29%2028%20May%202020.pdf>`_.
 
 **In general:**
 
@@ -94,7 +94,7 @@ The guidelines in all sections regarding COVID-19 has been adapted from the
   data. Many now have dedicated sections for new as well as pre-existing data relevant to 
   Covid19 research. 
 
-The following sections contain guidelines adressing specific covid-19 data 
+The following subsections contain guidelines adressing specific covid-19 data 
 types and resources:
 
 .. toctree::
