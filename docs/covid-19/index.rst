@@ -34,7 +34,7 @@ Also, some resources have specific application periods and thus needs to be
 contacted well in advance. If your project includes sensitive human data, note 
 that there are ethical and legal issues that you have to consider, such as 
 apply for an ethics approval and report the data processing to your 
-:ref:`Data Protection Officer </general/data_protection_officer>`. See the page on 
+`Data Protection Officer </general/data_protection_officer>`_. See the page on 
 :ref:`Sensitive data </general/sensitive_data>` for more information.
 
 Data generation
@@ -49,16 +49,16 @@ For a complete list please visit `Swedish COVID-19 Data Portal <https://www.covi
 Data analysis
 ****************************
 * `NBIS <https://nbis.se/support/>`_ (National Bioinformatics 
-Infrastructure Sweden) is a national research infrastructure that offers 
-bioinformatic support in various forms for a wide range of areas including 
-NGS, proteomics, metabolomics and biostatistics.
+  Infrastructure Sweden) is a national research infrastructure that offers 
+  bioinformatic support in various forms for a wide range of areas including 
+  NGS, proteomics, metabolomics and biostatistics.
 
 * `SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure for Computing) 
-is a national research infrastructure that makes available 
-large scale high performance computing resources. 
-`Apply <https://www.snic.se/allocations/compute/>`_ 
-for Small, Medium, Large or Sensitive data allocation, depending on 
-size and type of project.
+  is a national research infrastructure that makes available 
+  large scale high performance computing resources. 
+  `Apply <https://www.snic.se/allocations/compute/>`_ 
+  for Small, Medium, Large or Sensitive data allocation, depending on 
+  size and type of project.
 
 Data storage and archiving
 ****************************
