@@ -18,10 +18,24 @@ infrastructure resources available during these phases.
 
 .. image:: ../images/data_life_cycle_circle_logos.png
 
-Data management plan
+Data design
 ****************************
+During this phase you plan for wich data is needed to answer your research 
+question. High quality science is often only possible if the resource 
+facilities you intend to use gets involved already in the planning phase 
+of a project. Consultation and advice regarding data management planning, 
+data generation and data analysis are offered by `NBIS <https://nbis.se>`_ 
+and `SciLifeLab <<https://scilifelab.se>`_.
+
 It is wise to write a data management plan, using either a tool provided by your 
 university or `DS wizard <http://dsw.scilifelab.se/>`_.
+
+Also, some resources have specific application periods and thus needs to be 
+contacted well in advance. If your project includes sensitive human data, note 
+that there are ethical and legal issues that you have to consider, such as 
+apply for an ethics approval and report the data processing to your 
+:ref:`../general/data_protection_officer`. See the page on 
+:ref:`../general/sensitive_data` for more information.
 
 Data generation
 ****************************
@@ -34,22 +48,32 @@ For a complete list please visit `Swedish COVID-19 Data Portal <https://www.covi
 
 Data analysis
 ****************************
-`NBIS <https://nbis.se/support/>`_ (National Bioinformatics 
+* `NBIS <https://nbis.se/support/>`_ (National Bioinformatics 
 Infrastructure Sweden) is a national research infrastructure that offers 
 bioinformatic support in various forms for a wide range of areas including 
 NGS, proteomics, metabolomics and biostatistics.
 
-Computational resources
-****************************
-`SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure 
+* `SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure 
 for Computing) is a national research infrastructure that makes available 
 large scale high performance computing resources. 
 `Apply <https://www.snic.se/allocations/compute/>`_ 
 for Small, Medium, Large or Sensitive data allocation, depending on 
 size and type of project.
 
-Guidelines about repositories, data formats and metadata standards
-************************************************************************************
+Data storage and archiving
+****************************
+After the project is finished, the data needs to be stored in a backed-up 
+fashion at least for 10 years, and for as long as the data is of scientific 
+value. After this time, some of the data should be archived and some can be 
+disposed. It is best to contact your university 
+:ref:`../general/research_data_office` for information about the procedures 
+for this.  
+
+`SNIC  <https://www.snic.se/allocations/storage/>`_ offers storage for small 
+and medium-sized datasets. In the future also large-sized storage will be offered.
+
+Data sharing
+****************************
 The guidelines in all sections regarding COVID-19 has been adapted from the 
 `Research Data Alliance <https://rd-alliance.org/>`_ 5th release of the 
 `COVID-19 Data Sharing Recommendations & Guidelines <https://www.rd-alliance.org/system/files/RDA%20COVID-19%3B%20recommendations%20and%20guidelines%2C%205th%20release%20%28final%20draft%29%2028%20May%202020.pdf>`_
