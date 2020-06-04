@@ -34,8 +34,8 @@ Also, some resources have specific application periods and thus needs to be
 contacted well in advance. If your project includes sensitive human data, note 
 that there are ethical and legal issues that you have to consider, such as 
 apply for an ethics approval and report the data processing to your 
-`Data Protection Officer </en/latest/docs/general/data_protection_officer>`_. See the page on 
-`Sensitive data </docs/general/sensitive_data>`_ for more information.
+`Data Protection Officer </en/latest/docs/general/data_protection_officer.html>`_. See the page on 
+`Sensitive data </docs/general/sensitive_data.html>`_ for more information.
 
 Data generation
 ****************************
@@ -66,7 +66,7 @@ After the project is finished, the data needs to be stored in a backed-up
 fashion at least for 10 years, and for as long as the data is of scientific 
 value. After this time, some of the data should be archived and some can be 
 disposed. It is best to contact your university 
-`Research Data Office </docs/general/research_data_office>`_ for information about the procedures 
+`Research Data Office </en/latest/docs/general/research_data_office.html>`_ for information about the procedures 
 for this.  
 
 `SNIC <https://www.snic.se/allocations/storage/>`_ offers storage for small 
