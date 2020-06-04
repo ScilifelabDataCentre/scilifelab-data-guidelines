@@ -23,6 +23,7 @@ Data type:
   imaging/index
   metabolomics/index
   proteomics/index
+  general/index
   
 
 General information:
