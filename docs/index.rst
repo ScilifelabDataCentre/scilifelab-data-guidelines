@@ -17,7 +17,7 @@ General information.
 Data types:
 ==========
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
 
   covid-19/index
   genomics/index
