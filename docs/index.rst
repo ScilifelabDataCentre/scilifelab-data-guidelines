@@ -30,7 +30,7 @@ General information:
 ====================
 * :ref:`general/metadata`
 * :ref:`general/sensitive_data`
-* :ref:`general/data_protection_officer`
+:ref:`general/data_protection_officer`
 
 
 ..
