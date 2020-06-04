@@ -17,10 +17,11 @@ General information.
 Data types:
 ==========
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
 
   covid-19/index
   genomics/index
+    genomics/de_novo
   imaging/index
   metabolomics/index
   proteomics/index
