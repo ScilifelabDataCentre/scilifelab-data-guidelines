@@ -34,8 +34,8 @@ Also, some resources have specific application periods and thus needs to be
 contacted well in advance. If your project includes sensitive human data, note 
 that there are ethical and legal issues that you have to consider, such as 
 apply for an ethics approval and report the data processing to your 
-:ref:`/general/data_protection_officer`. See the page on 
-:ref:`/general/sensitive_data` for more information.
+:ref:`Data Protection Officer </general/data_protection_officer>`. See the page on 
+:ref:`Sensitive data </general/sensitive_data>` for more information.
 
 Data generation
 ****************************
@@ -53,8 +53,8 @@ Infrastructure Sweden) is a national research infrastructure that offers
 bioinformatic support in various forms for a wide range of areas including 
 NGS, proteomics, metabolomics and biostatistics.
 
-* `SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure 
-for Computing) is a national research infrastructure that makes available 
+* `SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure for Computing) 
+is a national research infrastructure that makes available 
 large scale high performance computing resources. 
 `Apply <https://www.snic.se/allocations/compute/>`_ 
 for Small, Medium, Large or Sensitive data allocation, depending on 
