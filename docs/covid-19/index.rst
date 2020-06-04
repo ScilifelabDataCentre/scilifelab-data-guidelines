@@ -10,6 +10,9 @@ Also see the `European COVID-19 Data Portal <https://www.covid19dataportal.org/>
 and `Horizon 2020 guidelines regarding COVID-19 <https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/oa-pilot/h2020-guidelines-oa-covid-19_en.pdf>`_ 
 for useful information on European level.
 
+The data life cycle is typically divided into design, generation, analysis, 
+storage & archiving, and sharing. Below you will find information about 
+infrastructure resources available during these phases.
 
  :ref:`/docs/images/data_life_cycle_circle_logos.png`
 
