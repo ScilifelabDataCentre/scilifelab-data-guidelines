@@ -10,6 +10,7 @@ and Research data offices (for data management guidance) at the different univer
 .. toctree::
   :maxdepth: 1
 
+  fair_principles
   metadata
   sensitive_data
   data_protection_officer
