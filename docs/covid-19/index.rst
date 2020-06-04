@@ -13,10 +13,10 @@ for useful information on European level.
 Data Life Cycle
 ###############
 The data life cycle is typically divided into design, generation, analysis, 
-storage & archiving, and sharing. Below you will find information about 
+storage & archiving, and sharing. Below you will find information about standards and 
 infrastructure resources available during these phases.
 
-.. image:: data_life_cycle_circle_logos.png
+.. image:: ../images/data_life_cycle_circle_logos.png
 
 Data management plan
 ****************************
