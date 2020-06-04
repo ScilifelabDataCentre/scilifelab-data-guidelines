@@ -31,6 +31,7 @@ General information:
 
   * general/metadata
   * general/sensitive_data
+  * general/data_protection_officer
 
 
 ..
