@@ -14,7 +14,6 @@ FAIR stands for Findable, Accessible, Interoperable and Reusable:
 In [Wilkinson, et al 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/pdf/sdata201618.pdf) a set of principles were defined for each of these properties. Below, each of the principles are explained further as adapted from [FAIR principles translation](http://www.snf.ch/SiteCollectionDocuments/FAIR_principles_translation_SNSF_logo.pdf).
 
 
-Principle	In other words	Researcher's responsibility
 ## F1. (meta)data are assigned a globally unique and persistent identifier	
 **Explanation:** Each data set is assigned a globally unique and persistent identifier (PID), for example a [DOI](https://www.doi.org/). These identifiers allow to find, cite and track (meta)data.	
 
@@ -54,7 +53,7 @@ Principle	In other words	Researcher's responsibility
 ## I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation
 **Explanation:** Interoperability typically means that each computer system has at least knowledge of the other system’s formats in which data is exchanged. If (meta)data are to be searchable and if compatible data sources should be combinable in a (semi)automatic way, computer systems need to be able to decide if the content of data sets are comparable. Obvious issues arise when different languages are used to describe the data or when spelling errors make the comparison of descriptions and variable names more difficult. It is critical to use controlled vocabularies and a well-defined framework to describe and structure (meta)data in order to ensure findability and interoperability of datasets.	
 
-**Action:** Provide machine readable data and metadata in an accessible language, using a well-established formalism. In particular, data and metadata are annotated with resolvable vocabularies/ontologies/thesauri that are commonly used in the field. The RDF extensible knowledge representation model is a way to describe and structure datasets. You can refer to the Dublin Core Schema as an example.
+**Action:** Provide machine readable data and metadata in an accessible language, using a well-established formalism. In particular, data and metadata are annotated with resolvable vocabularies/ontologies/thesauri that are commonly used in the field. The [RDF](https://www.w3.org/RDF/) extensible knowledge representation model is a way to describe and structure datasets. You can refer to the [Dublin Core Schema](https://dublincore.org/schemas/) as an example.
 
 ## I2. (meta)data use vocabularies that follow FAIR principles	
 **Explanation:** The controlled vocabulary used to describe data sets needs to be documented. This documentation needs to be easily findable and accessible by anyone who uses the data set.
