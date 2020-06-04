@@ -28,9 +28,9 @@ Data type:
 
 General information:
 ====================
-* general/metadata
-* general/sensitive_data
-* general/data_protection_officer
+* :ref:`general/metadata`
+* :ref:`general/sensitive_data`
+* :ref:`general/data_protection_officer`
 
 
 ..
