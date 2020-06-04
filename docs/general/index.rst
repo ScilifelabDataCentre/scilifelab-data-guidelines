@@ -1,5 +1,5 @@
-General
-========
+General information
+===================
 
 The following sections contain general guidelines, independent of datatype. 
 Metadata contains information about appropriate standards for (meta)data formats. 
