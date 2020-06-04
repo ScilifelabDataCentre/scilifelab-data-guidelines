@@ -9,7 +9,7 @@ The following sections contain guidelines for different genomics data types.
   wgs
   rnaseq
   single_cell
-  epigenetics
+  epigenomics
   de_novo
   metagenomics
   

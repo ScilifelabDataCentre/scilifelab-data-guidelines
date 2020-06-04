@@ -1,4 +1,4 @@
-# Epigenetics
+# Epigenomics
 
 The data life cycle is typically divided into design, generation, analysis, storage & archiving, and sharing. Below you will find information about infrastructure resources available during these phases.
 
@@ -7,19 +7,21 @@ The data life cycle is typically divided into design, generation, analysis, stor
 ## Data design
 During this phase you plan for wich data is needed to answer your research question. High quality science is often only possible if the resource facilities you intend to use gets involved already in the planning phase of a project. Consultation and advice regarding data management planning, data generation and data analysis are offered by [NBIS](https://nbis.se/) and [SciLifeLab](https://www.scilifelab.se/). 
 
+For information regarding data collections, experimental guidelines and data standards, we recommend the [Encode Project](https://www.encodeproject.org/data-standards/).
+
 It is wise to write a data management plan, using either a tool provided by your university or [DS wizard](http://dsw.scilifelab.se/).
 
 Also, some resources have specific application periods and thus needs to be contacted well in advance. If your project includes sensitive human data, note that there are ethical and legal issues that you have to consider, such as apply for an ethics approval and report the data processing to your [Data protection officer](/docs/general/data_protection_officer). See the page on [Sensitive personal data](/docs/general/sensitive_data) for more information.
 
 ## Data generation
-Facilities which offer data generation services for epigenetics:
+Facilities which offer data generation services for epigenomics:
 
 * [NGI](https://ngisweden.scilifelab.se/) (National Genomics Infrastructure) offers an infrastructure equipped with a comprehensive range of technology platforms for next generation sequencing (NGS) and genotyping.
 
 Consider to upload the raw data to a repository already when receiving them, under an embargo. This way you always have an off-site backup with the added benefit of making the [Data sharing](#data-sharing) phase more efficient.
 
 ## Data analysis
-Facilities which offer data analysis services for epigenetics:
+Facilities which offer data analysis services for epigenomics:
 
 * [NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) is a national research infrastructure that offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
 
@@ -35,14 +37,14 @@ After the project is finished, the data needs to be stored in a backed-up fashio
 ## Data sharing
 In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
 
-### Repositories for epigenetics data (non-human)
+### Repositories for epigenomics data (non-human)
 #### [ENA](https://www.ebi.ac.uk/ena)
 
 The ENA hosts an instance of the Sequence Read Archive (SRA), the same archive that exists on NCBI. SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
 
 There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
 
-### Repositories for epigenetics data (human)
+### Repositories for epigenomics data (human)
 NBIS is building a local federated version of the European Genome-phenome Archive (EGA) in Sweden (EGA-SE), allowing for the publication of sensitive personal data within a legal framework. Until local EGA is available, the dataset should remain in the secure analysis environment (eg at Bianca on Uppmax). We suggest to make a metadata-only record in the [SciLifeLab Data Repository](https://scilifelab.figshare.com/) with contact details on how to get access, and for which a DOI (ie a persistent identifier) can be issued. The DOI can then be used in the article to refer to the dataset. Once the Swedish EGA is operational, and the dataset deposited there, the access information can be changed to point at the EGA ID. See [https://doi.org/10.17044/NBIS/G000014](https://doi.org/10.17044/NBIS/G000014), for an example.
 
 ### Other repositories
