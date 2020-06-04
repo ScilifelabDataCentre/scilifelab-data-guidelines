@@ -21,7 +21,7 @@ Data types:
 
   covid-19/index
   genomics/index
-    genomics/de_novo
+  genomics/de_novo
   imaging/index
   metabolomics/index
   proteomics/index
