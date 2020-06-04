@@ -28,11 +28,9 @@ Data type:
 
 General information:
 ====================
-.. toctree::
-  :maxdepth: 1
 
-  general/metadata
-  general/sensitive_data
+  * general/metadata
+  * general/sensitive_data
 
 
 ..
