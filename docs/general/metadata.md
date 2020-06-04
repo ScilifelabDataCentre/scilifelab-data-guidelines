@@ -17,7 +17,7 @@ Below are ontology resources, adapted from Table 2 in *Griffin PC, Khadake J, Le
 * [Webulous](https://www.ebi.ac.uk/efo/webulous/) - Create new ontology terms easily.
 * [Ontobee](http://www.ontobee.org) - A linked data server that facilitates ontology data sharing, visualization, and use.
 
-## Data and metadata standards genomics data
+## Data and metadata standards Genomics data
 A list of relevant data and metadata standards can be found in [FAIRsharing](https://fairsharing.org/search/?q=genomics&content=standards), some specific examples are below.
 ### Gene expression
 #### Transcriptomics:
