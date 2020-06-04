@@ -11,9 +11,10 @@ Click on any of the data types for guidance on good data
 management practices during the different stages of the
 research data life cycle, including available infrastructures
 and appropriate repositories. There is also overarching
-guidance on metadata and sensitive data under General information.
+guidance on e.g. metadata standards and sensitive data under 
+General information.
 
-Data type:
+Data types:
 ==========
 .. toctree::
   :maxdepth: 1
@@ -23,10 +24,9 @@ Data type:
   imaging/index
   metabolomics/index
   proteomics/index
-  general/index
   
 
-General information:
+Generic guidance:
 ====================
 .. toctree::
   :maxdepth: 2
