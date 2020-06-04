@@ -34,7 +34,7 @@ Also, some resources have specific application periods and thus needs to be
 contacted well in advance. If your project includes sensitive human data, note 
 that there are ethical and legal issues that you have to consider, such as 
 apply for an ethics approval and report the data processing to your 
-`Data Protection Officer </en/latest/docs/general/data_protection_officer.html>`_. See the page on 
+:doc:`Data Protection Officer <../general/data_protection_officer>`. See the page on 
 `Sensitive data </docs/general/sensitive_data.html>`_ for more information.
 
 Data generation
