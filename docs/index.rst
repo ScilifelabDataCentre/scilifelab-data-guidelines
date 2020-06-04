@@ -40,7 +40,8 @@ Generic guidance:
 These pages are provided to you by `NBIS <https://nbis.se/>`_ data management 
 team and `SciLifeLab Data Centre <https://www.scilifelab.se/data/>`_. You can 
 reach us by sending an email to 
-`data-management@scilifelab.se <mailto:data-management@scilifelab.se>`_. 
+`data-management@scilifelab.se <mailto:data-management@scilifelab.se>`_.
+ 
 ..
   Indices and tables
   ==================
