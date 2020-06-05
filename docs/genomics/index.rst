@@ -14,16 +14,14 @@ and appropriate data repositories for sharing.
 | .. toctree::         | .. toctree::          |
 |   :maxdepth: 1       |   :maxdepth: 2        |
 |                      |                       |
-|   wgs                |   general/index       |
-|   rnaseq             |                       |
-|   single_cell        |                       |
-|   epigenomics        |                       |
-|   de_novo            |                       |
-|   metagenomics       |                       |
+|   covid-19/index     |   general/index       |
+|   genomics/index     |                       |
+|   imaging/index      |                       |
+|   metabolomics/index |                       |
 +----------------------+-----------------------+
 
 Data types:          
-------------
+¨¨¨¨¨¨¨¨¨¨¨
  .. toctree::         
    :maxdepth: 1       
                       
