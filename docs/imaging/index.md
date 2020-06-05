@@ -26,7 +26,7 @@ Facilities which offer data analysis services for imaging:
 * [BioImage Informatics Facility](https://www.scilifelab.se/facilities/bioimage-informatics/) provides support and education in image analysis in order to help users get started with their own analysis.
 
 ### Computational resources:
-[SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) is a national research infrastructure that makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
+[SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) national research infrastructure  makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
 
 ## Data storage and archiving
 After the project is finished, the data needs to be stored in a backed-up fashion at least for 10 years, and for as long as the data is of scientific value. After this time, some of the data should be archived and some can be disposed. It is best to contact your [university](/docs/general/research_data_office) for information about the procedures for this.  
