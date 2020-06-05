@@ -19,5 +19,5 @@ and appropriate data repositories for sharing.
 |   epigenomics        |
 |   de_novo            |
 |   metagenomics       |
-+----------------------+
++======================+
 
