@@ -7,15 +7,25 @@
   Welcome to SciLifeLab Data Guidelines!
 ########################################
 
-The purpose of these guidelines is to serve as an information 
-resource to researchers regarding research data management. Proper
-data management, introduced already when designing a project, 
-ensures that the data remains safe and in a good condition throughout 
-the project and beyond.
+`SciLifeLab <https://scilifelab.se>`_ is committed to the principles of 
+:doc:`FAIR <./general/fair_principles>` (Findable, Accessible, Interoperable 
+and Reusable) research data, i.e. that data should be easily accessed, 
+understood, exchanged and reused. We work actively to ensue that the 
+investments done in research infrastructure resources by society can achieve 
+the highest possible impact.
+
+Research data management concerns the organization, storage, preservation, 
+and sharing of data that is collected or analysed during a research project. 
+Proper planning and management of research data will make project management 
+easier and more efficient while projects are being performed. It also 
+facilitates sharing and allows others to validate as well as reuse the data.
  
+The purpose of these guidelines is to serve as an information 
+resource to researchers regarding research data management. 
 Click on any of the data types for guidance on good data
 management practices during the data life cycle, including 
-available infrastructures and appropriate repositories. There is 
+available infrastructures for data generation and analysis 
+and appropriate data repositories for sharing. There is 
 also overarching guidance, applicable to all data types, on e.g. metadata 
 standards and managing sensitive data under General information.
 
