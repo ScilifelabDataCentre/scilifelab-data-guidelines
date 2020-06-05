@@ -7,7 +7,7 @@ management practices during the data life cycle, including
 available infrastructures for data generation and analysis 
 and appropriate data repositories for sharing.
 
-+----------------------+
+.. +----------------------+
 | Data types:          |
 +======================+
 | .. toctree::         |
@@ -19,5 +19,5 @@ and appropriate data repositories for sharing.
 |   epigenomics        |
 |   de_novo            |
 |   metagenomics       |
-+----------------------+
++----------------------+ 
 
