@@ -28,18 +28,17 @@ and appropriate data repositories for sharing. There is
 also overarching guidance, applicable to all data types, on e.g. metadata 
 standards and managing sensitive data under General information.
 
-+======================+===================+
-| Data types:          | Generic guidance: |
-+======================+===================+
-| .. toctree::         | .. toctree::      |
-|   :maxdepth: 1       |   :maxdepth: 2    |
-|                      |                   |
-|   covid-19/index     |   general/index   |
-|   genomics/index     |                   |
-|   imaging/index      |                   |
-|   metabolomics/index |                   |
-|   proteomics/index   |                   |
-+======================+===================+
++----------------------+-----------------------+
+| **Data types:**      | **Generic guidance:** |
++----------------------+-----------------------+
+| .. toctree::         | .. toctree::          |
+|   :maxdepth: 1       |   :maxdepth: 2        |
+|                      |                       |
+|   covid-19/index     |   general/index       |
+|   genomics/index     |                       |
+|   imaging/index      |                       |
+|   metabolomics/index |                       |
++----------------------+-----------------------+
 
 
 These pages are provided to you by `NBIS <https://nbis.se/>`_ data management 
