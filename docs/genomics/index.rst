@@ -7,13 +7,17 @@ management practices during the data life cycle, including
 available infrastructures for data generation and analysis 
 and appropriate data repositories for sharing.
 
-.. toctree::
-  :maxdepth: 1
++======================+
+| Data types:          |
++======================+
+| .. toctree::         |
+|   :maxdepth: 1       |
+|                      |
+|   wgs                |
+|   rnaseq             |
+|   single_cell        |
+|   epigenomics        |
+|   de_novo            |
+|   metagenomics       |
++----------------------+
 
-  wgs
-  rnaseq
-  single_cell
-  epigenomics
-  de_novo
-  metagenomics
-  
