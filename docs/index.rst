@@ -30,7 +30,7 @@ standards and managing sensitive data under General information.
 
 +----------------------+-----------------------+
 | Data types:          | Generic guidance:     |
-+----------------------+-----------------------+
++======================+=======================+
 | .. toctree::         | .. toctree::          |
 |   :maxdepth: 1       |   :maxdepth: 2        |
 |                      |                       |
