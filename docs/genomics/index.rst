@@ -9,7 +9,8 @@ and appropriate data repositories for sharing.
 
 
 Data types:          
-¨¨¨¨¨¨¨¨¨¨¨
+------------
+
  .. toctree::         
    :maxdepth: 1       
                       
