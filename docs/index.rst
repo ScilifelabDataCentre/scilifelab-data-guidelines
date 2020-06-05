@@ -29,7 +29,7 @@ also overarching guidance, applicable to all data types, on e.g. metadata
 standards and managing sensitive data under General information.
 
 +----------------------+-----------------------+
-| **Data types:**      | **Generic guidance:** |
+| Data types:          | Generic guidance:     |
 +----------------------+-----------------------+
 | .. toctree::         | .. toctree::          |
 |   :maxdepth: 1       |   :maxdepth: 2        |
