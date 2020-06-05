@@ -6,7 +6,6 @@
 ########################################
   Welcome to SciLifeLab Data Guidelines!
 ########################################
-
 `SciLifeLab <https://scilifelab.se>`_ is committed to the principles of 
 :doc:`FAIR <./general/fair_principles>` (Findable, Accessible, Interoperable 
 and Reusable) research data, i.e. that data should be easily accessed, 
@@ -29,9 +28,9 @@ and appropriate data repositories for sharing. There is
 also overarching guidance, applicable to all data types, on e.g. metadata 
 standards and managing sensitive data under General information.
 
-+----------------------+-------------------+
++======================+===================+
 | Data types:          | Generic guidance: |
-+----------------------+-------------------+
++======================+===================+
 | .. toctree::         | .. toctree::      |
 |   :maxdepth: 1       |   :maxdepth: 2    |
 |                      |                   |
@@ -41,26 +40,6 @@ standards and managing sensitive data under General information.
 |   metabolomics/index |                   |
 |   proteomics/index   |                   |
 +----------------------+-------------------+
-
-
-Data types:
-------------
-.. toctree::
-  :maxdepth: 1
-
-  covid-19/index
-  genomics/index
-  imaging/index
-  metabolomics/index
-  proteomics/index
-  
-
-Generic guidance:
--------------------
-.. toctree::
-  :maxdepth: 2
-
-  general/index
 
 
 These pages are provided to you by `NBIS <https://nbis.se/>`_ data management 
