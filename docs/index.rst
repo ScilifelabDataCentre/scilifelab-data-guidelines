@@ -39,7 +39,7 @@ standards and managing sensitive data under General information.
 |   imaging/index      |                   |
 |   metabolomics/index |                   |
 |   proteomics/index   |                   |
-+----------------------+-------------------+
++======================+===================+
 
 
 These pages are provided to you by `NBIS <https://nbis.se/>`_ data management 
