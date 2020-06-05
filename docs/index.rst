@@ -29,8 +29,22 @@ and appropriate data repositories for sharing. There is
 also overarching guidance, applicable to all data types, on e.g. metadata 
 standards and managing sensitive data under General information.
 
++----------------------+-------------------+
+| Data types:          | Generic guidance: |
++----------------------+-------------------+
+| .. toctree::         | .. toctree::      |
+|   :maxdepth: 1       |   :maxdepth: 2    |
+|                      |                   |
+|   covid-19/index     |   general/index   |
+|   genomics/index     |                   |
+|   imaging/index      |                   |
+|   metabolomics/index |                   |
+|   proteomics/index   |                   |
++----------------------+-------------------+
+
+
 Data types:
-==========
+------------
 .. toctree::
   :maxdepth: 1
 
@@ -42,7 +56,7 @@ Data types:
   
 
 Generic guidance:
-====================
+-------------------
 .. toctree::
   :maxdepth: 2
 
