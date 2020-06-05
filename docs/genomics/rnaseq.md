@@ -20,7 +20,7 @@ Consider to upload the raw data to a repository already when receiving them, und
 ## Data analysis
 Facilities which offer data analysis services for RNA-seq datasets:
 ### Standard analyses (pipelines):
-* [NGI nf-core RNA-seq pipeline](https://github.com/nf-core/rnaseq/blob/master/docs/output.md)
+* [NGI nf-core RNA-seq pipeline](https://github.com/nf-core/rnaseq/)
 <!-- [name](https://linkname) -->
 
 ### Project-specific analyses:
