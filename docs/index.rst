@@ -9,14 +9,14 @@
 
 The purpose of these guidelines is to serve as an information 
 resource to researchers regarding research data management. Proper
-data management, introduced already when planning a project design, 
-ensures that the data remains safe and in a good condition through 
-the whole project and beyond.
+data management, introduced already when designing a project, 
+ensures that the data remains safe and in a good condition throughout 
+the project and beyond.
  
 Click on any of the data types for guidance on good data
 management practices during the data life cycle, including 
 available infrastructures and appropriate repositories. There is 
-also overarching guidance, regardless of data type, on e.g. metadata 
+also overarching guidance, applicable to all data types, on e.g. metadata 
 standards and managing sensitive data under General information.
 
 Data types:

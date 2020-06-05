@@ -21,7 +21,7 @@ Consider to upload the raw data to a repository already when receiving them, und
 
 ## Data analysis
 Facilities which offer data analysis services for metabolomics:
-* [NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) national research infrastructure  offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
+* [NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) national research infrastructure offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
 
 ### Computational resources:
 [SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) national research infrastructure  makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
@@ -32,7 +32,7 @@ After the project is finished, the data needs to be stored in a backed-up fashio
 [SNIC](https://www.snic.se/allocations/storage/ "SNIC storage") offers storage for small and medium-sized datasets. In the future also large-sized storage will be offered.
 
 ## Data sharing
-In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
+In the era of [FAIR](/docs/general/fair_principles) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
 
 ### Repositories for metabolomics data
 

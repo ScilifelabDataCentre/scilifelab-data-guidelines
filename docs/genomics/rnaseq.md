@@ -24,10 +24,10 @@ Facilities which offer data analysis services for RNA-seq datasets:
 <!-- [name](https://linkname) -->
 
 ### Project-specific analyses:
-[NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) national research infrastructure  offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
+[NBIS](https://nbis.se/support/ "NBIS support") (National Bioinformatics Infrastructure Sweden) national research infrastructure offers bioinformatic support in various forms for a wide range of areas including NGS, proteomics, metabolomics and biostatistics.
 
 ### Computational resources:
-[SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) national research infrastructure  makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
+[SNIC](https://www.snic.se/ "SNIC homepage") (Swedish National Infrastructure for Computing) national research infrastructure makes available large scale high performance computing resources. [Apply](https://www.snic.se/allocations/compute/ "SNIC compute") for Small, Medium, Large or Sensitive data allocation, depending on size and type of project.
 
 ## Data storage and archiving
 After the project is finished, the data needs to be stored in a backed-up fashion at least for 10 years, and for as long as the data is of scientific value. After this time, some of the data should be archived and some can be disposed. It is best to contact your [university](/docs/general/research_data_office) for information about the procedures for this. 
@@ -39,7 +39,7 @@ After the project is finished, the data needs to be stored in a backed-up fashio
 *University/Institutional repositories?* -->
 
 ## Data sharing
-In the era of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
+In the era of [FAIR](/docs/general/fair_principles) (Findable, Accessible, Interoperable and Reusable) and [Open science](https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html), datasets should be made available to the public. 
 
 ### Repositories appropriate for RNA-seq (non-human) datasets
 
@@ -50,7 +50,7 @@ Samples are linked between databases to make sure each part of the dataset is fi
 
 ##### [ENA](https://www.ebi.ac.uk/ena)
 
-The ENA hosts an instance of the Sequence Read Archive (SRA), the same archive that exists on NCBI. SRA accepts raw sequence data from any sequencing platform, generated in any research project.  
+The ENA hosts an instance of the Sequence Read Archive (SRA), the same archive that exists on NCBI. SRA accepts raw sequence data from any sequencing platform, generated in any research project. 
 
 There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
 

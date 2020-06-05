@@ -49,12 +49,12 @@ For a complete list please visit `Swedish COVID-19 Data Portal <https://www.covi
 Data analysis
 ****************************
 * `NBIS <https://nbis.se/support/>`_ (National Bioinformatics 
-  Infrastructure Sweden) national research infrastructure  offers 
+  Infrastructure Sweden) national research infrastructure offers 
   bioinformatic support in various forms for a wide range of areas including 
   NGS, proteomics, metabolomics and biostatistics.
 
 * `SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure for Computing) 
-  national research infrastructure  makes available 
+  national research infrastructure makes available 
   large scale high performance computing resources. 
   `Apply <https://www.snic.se/allocations/compute/>`_ 
   for Small, Medium, Large or Sensitive data allocation, depending on 

@@ -1,6 +1,6 @@
 # FAIR principles
 
-FAIR stands for Findable, Accessible, Interoperable and Reusable:
+[FAIR](https://www.force11.org/group/fairgroup/fairprinciples) stands for Findable, Accessible, Interoperable and Reusable:
 
 * To be **Findable**: Data and metadata should be easy to find by both humans and computer systems. Basic machine readable descriptive metadata allows the discovery of interesting data sets and services.
 
