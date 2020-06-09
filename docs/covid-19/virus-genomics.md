@@ -2,7 +2,7 @@
 ## Repositories
 We suggest that raw virus sequence data as well as assembled and annotated genomes are submitted to [ENA](https://www.ebi.ac.uk/ena). 
 * There are several ways to [submit](https://www.ebi.ac.uk/ena/submit) data to ENA, including [SARS-CoV-2 submission](https://ena-browser-docs.readthedocs.io/en/latest/help_and_guides/sars-cov-2-submissions.html) and extensive documentation on [programmatic submissions](https://ena-docs.readthedocs.io/en/latest/programmatic.html).
-* Before submission of raw sequence data (e.g. shotgun sequencing) it is necessary to remove contaminating human reads.
+* Before submission of raw sequence data (e.g. shotgun sequencing) it is necessary to remove contaminating human reads. This can be done using e.g. [Metagen-FastQC](https://github.com/Finn-Lab/Metagen-FastQC), or ask for assistance at [virus-dataflow@ebi.ac.uk](mailto:virus-dataflow@ebi.ac.uk).
 
 ## Data and metadata standards
 A list of relevant data and metadata standards can be found in [FAIRsharing](https://fairsharing.org/search/?q=genomics&content=standards), some specific examples are below.
@@ -22,4 +22,4 @@ We suggest that data is preferentially stored in the following formats, in order
 Consider annotating virus genomes using the [ENA virus pathogen reporting standard checklist](https://www.ebi.ac.uk/ena/data/view/ERC000033), which is a minimal information standard under development right now and the more general [Viral Genome Annotation System](http://cefg.uestc.cn/vgas/) (VGAS) ([Zhang et al. 2019](https://doi.org/10.3389/fmicb.2019.00184)).
 
 ##### Phylogenetic analysis
-For submitting data and metadata relating to phylogenetic relationships (including topology, branch lengths, and support values) consider using widely accepted formats such as [Newick](http://evolution.genetics.washington.edu/phylip/newicktree.html), [NEXUS](https://academic.oup.com/sysbio/article/46/4/590/1629695) and [PhyloXML](http://www.phyloxml.org/). The [Minimum Information About a Phylogenetic Analysis](https://github.com/evoinfo/miapa)  checklist provides a reference list of useful tree annotations. 
+For submitting data and metadata relating to phylogenetic relationships (including topology, branch lengths, and support values) consider using widely accepted formats such as [Newick](http://evolution.genetics.washington.edu/phylip/newicktree.html), [NEXUS](https://academic.oup.com/sysbio/article/46/4/590/1629695) and [PhyloXML](http://www.phyloxml.org/). The [Minimum Information About a Phylogenetic Analysis](https://github.com/evoinfo/miapa) checklist provides a reference list of useful tree annotations. 
