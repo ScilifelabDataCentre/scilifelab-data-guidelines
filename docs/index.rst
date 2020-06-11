@@ -9,9 +9,9 @@
 `SciLifeLab <https://scilifelab.se>`_ is committed to the principles of 
 :doc:`FAIR <./general/fair_principles>` (Findable, Accessible, Interoperable 
 and Reusable) research data, i.e. that data should be easily accessed, 
-understood, exchanged and reused. We work actively to ensue that the 
-investments done in research infrastructure resources by society can achieve 
-the highest possible impact.
+understood, exchanged and reused. We work actively to ensure that the 
+investments done by the society in research infrastructure resources 
+can achieve the highest possible impact.
 
 Research data management concerns the organization, storage, preservation, 
 and sharing of data that is collected or analysed during a research project. 
