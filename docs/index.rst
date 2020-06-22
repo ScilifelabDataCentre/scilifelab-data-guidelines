@@ -38,7 +38,7 @@ standards and managing sensitive data under General information.
 |   genomics/index     |                       |
 |   imaging/index      |                       |
 |   metabolomics/index |                       |
-|   proteomics/index   |                       |
+|   proteomics/p_index |                       |
 +----------------------+-----------------------+
 
 
