@@ -42,6 +42,20 @@ A list of relevant data and metadata standards can be found in [FAIRsharing](htt
   *  for binary files: [.bim](https://www.cog-genomics.org/plink2/formats#bim), [.fam](https://www.cog-genomics.org/plink2/formats#fam) and [.bed](https://www.cog-genomics.org/plink2/formats#bed)
   *  for text-format files: [.ped](https://www.cog-genomics.org/plink2/formats#ped) and [.map](https://www.cog-genomics.org/plink2/formats#map)
 
+### Metagenomics
+* [MIxS - MIGS/MIMS](http://wiki.gensc.org/index.php?title=MIGS/MIMS)
+Minimum Information about a (Meta)Genome Sequence. The  MIMS extension includes key environmental metadata. Developed by the Genomic Standards Consortium. Numerous adopters including NCBI/EBI/DDBJ databases.  
+
+* [MIMARKS](http://wiki.gensc.org/index.php?title=MIMARKS)
+Minimum Information about a MARKer gene Sequence. This is an extension of MIGS/MIMS for environmental sequences. Developed by the Genomic Standards Consortium. Numerous adopters including NCBI/EBI/DDBJ databases.  
+
+### Functional Annotation of Animal Genomes Consortium (FAANG) standards
+* [FAANG sample metadata specification](https://github.com/FAANG/faang-metadata/blob/master/docs/faang_sample_metadata.md)
+Metadata specification for biological samples derived from animals (animals, tissue samples, cells or other biological materials). Complies with EBI database requirements and [BioSamples](https://www.ebi.ac.uk/biosamples/) database formats. 
+
+* [FAANG experimental metadata specification](https://github.com/FAANG/faang-metadata/blob/master/docs/faang_experiment_metadata.md)
+Metadata specification for sequencing and array experiments on animal samples.
+
 ## Data and metadata standards Proteomics
 For a curated list of relevant standards see [FAIRsharing](https://fairsharing.org) using the query ’[proteomics](https://fairsharing.org/search/?q=proteomics&content=standard&name=&taxonomies=&organisations=&shortname=&description=&supportlinks=&licenses=&countries=&maintainers=&expanded_onto_domains=&expanded_onto_disciplines=&user_defined_tags=&record_id=&miriam_id=&search_state=hidden)’ 
 
@@ -99,18 +113,3 @@ resolution and resolution method, as well as a description of the modeling/fitti
 * Neutron scattering data are stored in the internationally-adopted [ENDF-6](https://www.oecd-nea.org/dbdata/data/manual-endf/endf102.pdf) format maintained by [CSEWG](https://www.nndc.bnl.gov/csewg/).
 * Processed structural information is submitted in the [PDBx/mmCIF](http://mmcif.pdb.org/) format.
 
-## Other metadata standards
- 
-### Metagenomics
-* [MIxS - MIGS/MIMS](http://wiki.gensc.org/index.php?title=MIGS/MIMS)
-Minimum Information about a (Meta)Genome Sequence. The  MIMS extension includes key environmental metadata. Developed by the Genomic Standards Consortium. Numerous adopters including NCBI/EBI/DDBJ databases.  
-
-* [MIMARKS](http://wiki.gensc.org/index.php?title=MIMARKS)
-Minimum Information about a MARKer gene Sequence. This is an extension of MIGS/MIMS for environmental sequences. Developed by the Genomic Standards Consortium. Numerous adopters including NCBI/EBI/DDBJ databases.  
-
-### Functional Annotation of Animal Genomes Consortium (FAANG) standards
-* [FAANG sample metadata specification](https://github.com/FAANG/faang-metadata/blob/master/docs/faang_sample_metadata.md)
-Metadata specification for biological samples derived from animals (animals, tissue samples, cells or other biological materials). Complies with EBI database requirements and [BioSamples](https://www.ebi.ac.uk/biosamples/) database formats. 
-
-* [FAANG experimental metadata specification](https://github.com/FAANG/faang-metadata/blob/master/docs/faang_experiment_metadata.md)
-Metadata specification for sequencing and array experiments on animal samples.
