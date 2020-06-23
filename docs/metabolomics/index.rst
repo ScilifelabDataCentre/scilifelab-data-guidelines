@@ -21,7 +21,7 @@
 
 .. include:: ../template/sharing.rst
 
-`MetaboLights <https://www.ebi.ac.uk/metabolights/>`_) is a database for 
+`MetaboLights <https://www.ebi.ac.uk/metabolights/>`_ is a database for 
 Metabolomics experiments and derived information. The database is cross-species, 
 cross-technique and covers metabolite structures and their reference spectra as 
 well as their biological roles, locations and concentrations, and experimental 
