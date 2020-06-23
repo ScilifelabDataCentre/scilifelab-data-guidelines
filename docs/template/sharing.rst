@@ -7,6 +7,6 @@ Interoperable and Reusable) and `Open science
 <https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html>`_, 
 datasets should be made available to the public. 
 
-Domain-specific repositories
+Repositories for |data_type| data:
 *************************************
 
