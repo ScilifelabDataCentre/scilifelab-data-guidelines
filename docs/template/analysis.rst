@@ -1,6 +1,6 @@
 Data analysis
 ==============
-Facilities which offer data analysis services:
+Facilities which offer data analysis services for |data_type|:
 
 * `NBIS support <https://nbis.se/support>`_ (National Bioinformatics 
   Infrastructure Sweden) national research infrastructure offers bioinformatic 
