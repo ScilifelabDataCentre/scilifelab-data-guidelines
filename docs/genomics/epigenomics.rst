@@ -1,4 +1,4 @@
-.. |data_type| replace:: De novo genome sequencing
+.. |data_type| replace:: Epigenomics
 
 #################
 |data_type|
@@ -28,7 +28,7 @@ Interoperable and Reusable) and `Open science
 <https://www.vr.se/english/mandates/open-science/open-access-to-research-data.html>`_, 
 datasets should be made available to the public. 
 
-Repositories for epigenomics data (non-human)
+Repositories for Epigenomics data (non-human)
 **************************************************************
 `ENA <https://www.ebi.ac.uk/ena>`_
 ------------------------------------------
@@ -40,7 +40,7 @@ There are several ways to `submit <https://www.ebi.ac.uk/ena/submit>`_
 data to ENA, including extensive documentation on `programmatic submissions 
 <https://ena-docs.readthedocs.io/en/latest/programmatic.html>`_.
 
-Repositories for epigenomics data (human)
+Repositories for Epigenomics data (human)
 **************************************************************
 NBIS is building a local federated version of the European Genome-phenome 
 Archive (EGA) in Sweden (EGA-SE), allowing for the publication of sensitive 
