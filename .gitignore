@@ -1,1 +1,10 @@
 _build
+docs/imaging/md_index.md
+docs/genomics/md_single_cell.md
+docs/genomics/md_wgs.md
+docs/genomics/md_metagenomics.md
+docs/genomics/md_rnaseq.md
+docs/genomics/md_de_novo.md
+docs/genomics/md_epigenomics.md
+docs/metabolomics/md_index.md
+docs/proteomics/md_index.md
