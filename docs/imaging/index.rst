@@ -7,14 +7,6 @@
 
 .. include:: ../template/generation.rst
 
-* `BioMS <https://bioms.se/>`_ Swedish National Infrastructure for Biological 
-  Mass Spectrometry national infrastructure enables cutting-edge mass spectrometry 
-  and related advanced technology platforms to be part of your research projects.
-* `Chemical proteomics & proteogenomics <https://www.scilifelab.se/facilities/chemical-proteomics-proteogenomics>`_ 
-  national facility offers state-of-the art mass spectrometry (MS)-based 
-  proteomics support, including experimental planning, MS analysis and data 
-  analysis related to proteogenomics and chemical proteomics.
-
 * `ALM <https://www.scilifelab.se/facilities/alm/>`_ Advanced Light Microscopy 
   facility give support with advanced fluorescence microscopy for nanoscale 
   biological visualization using SIM, STED, STORM/PALM superresolution imaging. 
