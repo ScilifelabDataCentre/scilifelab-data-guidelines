@@ -14,16 +14,17 @@
 Data analysis
 =============
 Facilities which offer data analysis services for RNA-seq datasets:
+
 Standard analyses (pipelines):
 ***********************************
-* `NGI nf-core RNA-seq pipeline <https://github.com/nf-core/rnaseq/>`_
+`NGI nf-core RNA-seq pipeline <https://github.com/nf-core/rnaseq/>`_
 
 Project-specific analyses:
 ***********************************
 `NBIS support <https://nbis.se/support>`_ (National Bioinformatics 
-  Infrastructure Sweden) national research infrastructure offers bioinformatic 
-  support in various forms for a wide range of areas including NGS, proteomics, 
-  metabolomics and biostatistics.
+Infrastructure Sweden) national research infrastructure offers bioinformatic 
+support in various forms for a wide range of areas including NGS, proteomics, 
+metabolomics and biostatistics.
 
 .. include:: ../template/analysis_compute.rst
 
