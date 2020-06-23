@@ -5,7 +5,7 @@ resources available during these phases.
 .. image:: ../images/data_life_cycle_circle_logos.png
 
 Data design
-***********************
+============
 During this phase you plan for wich data is needed to answer your research question. 
 High quality science is often only possible if the resource facilities you intend 
 to use gets involved already in the planning phase of a project. Consultation and 
@@ -19,6 +19,6 @@ Also, some resources have specific application periods and thus needs to be
 contacted well in advance. If your project includes sensitive human data, note 
 that there are ethical and legal issues that you have to consider, such as 
 apply for an ethics approval and report the data processing to your 
-:doc:`Data Protection Officer <../general/data_protection_officer>`. See the page on 
-:doc:`Sensitive data <../general/sensitive_data>` for more information.
+:doc:`Data Protection Officer </docs/general/data_protection_officer>`. See the page on 
+:doc:`Sensitive data </docs/general/sensitive_data>` for more information.
 
