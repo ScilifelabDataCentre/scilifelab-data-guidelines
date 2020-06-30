@@ -8,8 +8,7 @@ available infrastructures for data generation and analysis
 and appropriate data repositories for sharing.
 
 
-Data types:          
-------------
+**Data types:**          
 
  .. toctree::         
    :maxdepth: 1       
