@@ -6,7 +6,7 @@ resources available during these phases.
 
 Data design
 ============
-During this phase you plan for wich data is needed to answer your research question. 
+During this phase you plan for which data is needed to answer your research question. 
 High quality science is often only possible if the resource facilities you intend 
 to use gets involved already in the planning phase of a project. Consultation and 
 advice regarding data management planning, data generation and data analysis are 
