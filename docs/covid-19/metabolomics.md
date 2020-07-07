@@ -2,12 +2,12 @@
 Metabolomics studies are used to find biomarkers for disease and susceptibility. Lipidomics is a special form of metabolomics, but is also described in more detail in a separate section because of its special relevance to COVID-19 research.
 
 ## Repositories
-For a curated list of relevant repositories see [FAIRsharing](https://fairsharing.org/) using the query ‘[metabolomics](https://fairsharing.org/search/?q=metabolomics&content=biodbcore&name=&taxonomies=&organisations=&shortname=&description=&supportlinks=&licenses=&countries=&maintainers=&expanded_onto_domains=&expanded_onto_disciplines=&user_defined_tags=&record_id=&miriam_id=&search_state=hidden)’.
+For a curated list of relevant repositories see [FAIRsharing using the query ‘metabolomics‘](https://fairsharing.org/search/?q=metabolomics&content=biodbcore&name=&taxonomies=&organisations=&shortname=&description=&supportlinks=&licenses=&countries=&maintainers=&expanded_onto_domains=&expanded_onto_disciplines=&user_defined_tags=&record_id=&miriam_id=&search_state=hidden).
  
 * Metabolomics data can be submitted to [MetaboLights](https://www.ebi.ac.uk/metabolights)
 
 ## Data and metadata standards
-For a curated list of relevant standards see [FAIRsharing](https://fairsharing.org) using the query ‘[metabolomics](https://fairsharing.org/search/?q=metabolomics&content=standard&name=&taxonomies=&organisations=&shortname=&description=&supportlinks=&licenses=&countries=&maintainers=&expanded_onto_domains=&expanded_onto_disciplines=&user_defined_tags=&record_id=&miriam_id=&search_state=hidden)’.
+For a curated list of relevant standards see [FAIRsharing using the query ‘metabolomics‘](https://fairsharing.org/search/?q=metabolomics&content=standard&name=&taxonomies=&organisations=&shortname=&description=&supportlinks=&licenses=&countries=&maintainers=&expanded_onto_domains=&expanded_onto_disciplines=&user_defined_tags=&record_id=&miriam_id=&search_state=hidden).
 
 * Core Information for Metabolomics Reporting [CIMR](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/) standard
 * For identifying chemical compounds use [SMILES](https://doi.org/10.25504/FAIRsharing.qv4b3c) or [InChl](https://doi.org/10.25504/FAIRsharing.ddk9t9)

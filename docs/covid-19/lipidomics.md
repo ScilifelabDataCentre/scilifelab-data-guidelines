@@ -24,4 +24,5 @@ processing, analysis and annotation for Metabolomics community.
 ### Compound identification
 * After data processing, potential biomarkers should be annotated. This could be done either by manual ([Lipid Maps tools](http://www.lipidmaps.org/tools/ms/))  or automated identification against templates ([Library templates for compounds identification](http://prime.psc.riken.jp/compms/msdial/main.html#MSP)) with the help of software such as [LipidBlast](https://fiehnlab.ucdavis.edu/projects/LipidBlast), [MSPepSearch](https://chemdata.nist.gov/dokuwiki/doku.php?id=peptidew:mspepsearch) or [MS-DIAL](http://prime.psc.riken.jp/compms/msdial/main.html).
 
-* Lipids classification and nomenclature should follow the [LIPID MAPS guidelines](https://www.lipidmaps.org/resources/tutorials/lipid_cns.html)
+* Lipids classification and nomenclature should follow the [LIPID MAPS guidelines](https://www.lipidmaps.org/resources/tutorials/lipid_cns.html).
+
