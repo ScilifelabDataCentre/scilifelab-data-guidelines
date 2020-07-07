@@ -24,7 +24,7 @@ The [COVID-19 Molecular Structure and Therapeutics Hub](https://covid.bioexcel.e
 * There are no widely accepted standards for NMR raw data files. Generally these are stored and archived in single FID/SER files.
 * One effort for the standardization of NMR parameters extracted from 1D and 2D spectra of organic compounds to the proposed chemical structure is the [NMReDATA initiative](http://nmredata.org/) format.
 * There is no universally accepted format, especially for crucial FID-associated metadata. [NMR-STAR](http://www.bmrb.wisc.edu/formats.shtml) and its [NMR-STAR Dictionary](https://github.com/uwbmrb/nmr-star-dictionary) is the archival format used by the [Biological Nuclear Magnetic Resonance data Bank](http://www.bmrb.wisc.edu/) (BMRB), the international repository of biomolecular NMR data and an archive of the [Worldwide Protein Data Bank](http://www.wwpdb.org/) (wwPDB).
-* The [nmrML format specification](http://nmrml.org/) (XML Schema Definition (XSD) and an accompanying controlled vocabulary called nmrCV) are an open mark up language and ontology for NMR data.
+* The [nmrML format specification](http://nmrml.org/) (XML Schema Definition (XSD) and an accompanying controlled vocabulary called nmrCV) is an open mark up language and ontology for NMR data ([PhenoMeNal H2020 project, 2019](https://cordis.europa.eu/project/id/654241)).
 * Processed structural information is submitted in the [PDBx/mmCIF](http://mmcif.pdb.org/) format.
 
 **Neutron scattering**

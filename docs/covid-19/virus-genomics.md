@@ -10,7 +10,7 @@ A list of relevant data and metadata standards can be found in [FAIRsharing](htt
 ### Data standards
 We suggest that data is preferentially stored in the following formats, in order to maximize the interoperability with each other and with standard analysis pipelines:  
   * **Raw sequences:** [.fastq](https://support.illumina.com/bulletins/2016/04/fastq-files-explained.html), optionally add compression with gzip 
-  * **Genome contigs:** [.fastq](https://support.illumina.com/bulletins/2016/04/fastq-files-explained.html) if uncertainties of the assembler can be captured, otherwise use [.fasta](https://doi.org/10.25504/FAIRsharing.rz4vfg); optionally add compression with gzip
+  * **Genome contigs:** [.fastq](https://support.illumina.com/bulletins/2016/04/fastq-files-explained.html) if uncertainties of the assembler can be captured, otherwise use [.fasta](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp); optionally add compression with gzip
   * **De novo aligned sequences:** [.afa](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/multalignviewer/afasta.html)
 * **Gene Structure:** [.gtf](https://mblab.wustl.edu/GTF22.html)
 * **Gene Features:** [.gff](https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md)
