@@ -1,7 +1,7 @@
 ## Sensitive personal data
 
-The following is a list of Ethical, Legal and Social implications (ELSI) are topics that has to been considered when working with human data.
-The content on this page is based on a checklist on theses topics that has been developed in the [Tryggve project](https://neic.no/tryggve/). The checklist can be used as a tool to document these considerations. It is available as: 
+The following is a list of Ethical, Legal and Social Implications (ELSI) that should be considered when working with human data.
+The content on this page is based on a checklist that has been developed in the [Tryggve project](https://neic.no/tryggve/). It is intended be used as a tool to document these considerations, and is available as: 
 1. An MS Word file that can be downloaded from the [Tryggve project pages](https://neic.no/tryggve/links/). 
 2. In the [SciLifeLab Data Stewardship Wizard](https://dsw.scilifelab.se/) (SciLifeLab DSW)
   * Log in to the [SciLifeLab DSW](https://dsw.scilifelab.se/) using your university credentials
