@@ -13,7 +13,14 @@
 
 .. include:: ../template/analysis.rst
 
-.. include:: ../template/analysis_compute.rst
+.. 
+  include:: ../template/analysis_compute.rst
+
+Computational resources
+**************************
+`SNIC <https://www.snic.se/>`_ (Swedish National Infrastructure for Computing) national research infrastructure makes available large scale high performance computing resources. The SNIC-SENS Bianca system is designed to be used for processing sensitive human data. See the instructions for `applying for a Bianca project <https://www.uppmax.uu.se/support/getting-started/applying-for-sens-project/>`_.
+
+* Note that in case you work at a different institute than Uppsala University, you need a data processing agreement between your institute and UPPMAX/Uppsala University for using the Bianca system - see `instructions at UPPMAX <https://www.uppmax.uu.se/support/faq/general-miscellaneous-faq/sensitive+data+questions/>`_.
 
 Data storage and archiving
 ==========================
