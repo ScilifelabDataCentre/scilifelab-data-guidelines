@@ -48,8 +48,8 @@ with contact details on how to get access, and for which a DOI (ie a
 persistent identifier) can be issued. The DOI can then be used in the article 
 to refer to the dataset. Once the Swedish EGA is operational, and the dataset 
 deposited there, the access information can be changed to point at the EGA ID. 
-See `https://doi.org/10.17044/NBIS/G000014 
-<https://doi.org/10.17044/NBIS/G000014>`_, for an example.
+See `https://doi.org/10.17044/scilifelab.12292778 
+<https://doi.org/10.17044/scilifelab.12292778>`_, for an example.
 
 .. include:: ../template/other_repos.rst
 
