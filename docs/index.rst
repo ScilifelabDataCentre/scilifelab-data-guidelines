@@ -7,5 +7,5 @@
   SciLifeLab Data Guidelines has a new home
 ########################################
 
-Please visit **RDM Guidelines at [https://data-guidelines.scilifelab.se/](https://data-guidelines.scilifelab.se/)** 
+Please visit `RDM Guidelines <https://data-guidelines.scilifelab.se/>`_ 
 for up-to-date guidance on research data management for life science.
